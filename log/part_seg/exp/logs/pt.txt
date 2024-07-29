@@ -1,0 +1,1709 @@
+2023-09-04 09:18:46,538 - Model - INFO - PARAMETER ...
+2023-09-04 09:18:46,538 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='../data/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-04 09:21:46,355 - Model - INFO - PARAMETER ...
+2023-09-04 09:21:46,355 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='../data/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-06 18:57:54,049 - Model - INFO - PARAMETER ...
+2023-09-06 18:57:54,050 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='../data/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 19:37:26,721 - Model - INFO - PARAMETER ...
+2023-09-07 19:37:26,721 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 19:37:26,828 - Model - INFO - The number of training data is: 13998
+2023-09-07 19:37:26,828 - Model - INFO - The number of test data is: 2874
+2023-09-07 20:02:47,300 - Model - INFO - PARAMETER ...
+2023-09-07 20:02:47,301 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 20:02:47,408 - Model - INFO - The number of training data is: 13998
+2023-09-07 20:02:47,408 - Model - INFO - The number of test data is: 2874
+2023-09-07 21:21:44,077 - Model - INFO - PARAMETER ...
+2023-09-07 21:21:44,078 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='../data/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-08 19:48:31,798 - Model - INFO - PARAMETER ...
+2023-09-08 19:48:31,798 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='../data/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-08 20:15:04,895 - Model - INFO - PARAMETER ...
+2023-09-08 20:15:04,895 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-08 20:21:38,008 - Model - INFO - PARAMETER ...
+2023-09-08 20:21:38,008 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-08 20:21:38,120 - Model - INFO - The number of training data is: 13998
+2023-09-08 20:21:38,120 - Model - INFO - The number of test data is: 2874
+2023-09-08 20:30:12,570 - Model - INFO - PARAMETER ...
+2023-09-08 20:30:12,571 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-08 20:30:12,626 - Model - INFO - The number of training data is: 13998
+2023-09-08 20:30:12,626 - Model - INFO - The number of test data is: 2874
+2023-09-08 20:40:59,347 - Model - INFO - PARAMETER ...
+2023-09-08 20:40:59,347 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-08 20:40:59,403 - Model - INFO - The number of training data is: 13998
+2023-09-08 20:40:59,403 - Model - INFO - The number of test data is: 2874
+2023-09-08 20:49:23,002 - Model - INFO - PARAMETER ...
+2023-09-08 20:49:23,002 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-08 20:49:23,054 - Model - INFO - The number of training data is: 13998
+2023-09-08 20:49:23,054 - Model - INFO - The number of test data is: 2874
+2023-09-08 20:49:38,993 - Model - INFO - PARAMETER ...
+2023-09-08 20:49:38,993 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-08 20:49:39,101 - Model - INFO - The number of training data is: 13998
+2023-09-08 20:49:39,101 - Model - INFO - The number of test data is: 2874
+2023-09-08 20:53:20,894 - Model - INFO - PARAMETER ...
+2023-09-08 20:53:20,895 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-08 20:53:21,007 - Model - INFO - The number of training data is: 13998
+2023-09-08 20:53:21,007 - Model - INFO - The number of test data is: 2874
+2023-09-08 20:55:09,228 - Model - INFO - PARAMETER ...
+2023-09-08 20:55:09,228 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-08 20:55:09,337 - Model - INFO - The number of training data is: 13998
+2023-09-08 20:55:09,337 - Model - INFO - The number of test data is: 2874
+2023-09-08 20:55:42,175 - Model - INFO - PARAMETER ...
+2023-09-08 20:55:42,175 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-08 20:55:42,282 - Model - INFO - The number of training data is: 13998
+2023-09-08 20:55:42,282 - Model - INFO - The number of test data is: 2874
+2023-09-11 09:22:55,790 - Model - INFO - PARAMETER ...
+2023-09-11 09:22:55,790 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 09:22:55,915 - Model - INFO - The number of training data is: 13998
+2023-09-11 09:22:55,915 - Model - INFO - The number of test data is: 2874
+2023-09-11 11:07:03,018 - Model - INFO - PARAMETER ...
+2023-09-11 11:07:03,019 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 11:07:03,137 - Model - INFO - The number of training data is: 13998
+2023-09-11 11:07:03,137 - Model - INFO - The number of test data is: 2874
+2023-09-11 11:07:40,644 - Model - INFO - PARAMETER ...
+2023-09-11 11:07:40,644 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 11:07:40,760 - Model - INFO - The number of training data is: 13998
+2023-09-11 11:07:40,760 - Model - INFO - The number of test data is: 2874
+2023-09-11 11:09:33,910 - Model - INFO - PARAMETER ...
+2023-09-11 11:09:33,910 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 11:09:34,021 - Model - INFO - The number of training data is: 13998
+2023-09-11 11:09:34,022 - Model - INFO - The number of test data is: 2874
+2023-09-11 11:13:35,725 - Model - INFO - PARAMETER ...
+2023-09-11 11:13:35,726 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 11:13:35,842 - Model - INFO - The number of training data is: 13998
+2023-09-11 11:13:35,842 - Model - INFO - The number of test data is: 2874
+2023-09-11 11:14:59,399 - Model - INFO - PARAMETER ...
+2023-09-11 11:14:59,399 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 11:14:59,515 - Model - INFO - The number of training data is: 13998
+2023-09-11 11:14:59,515 - Model - INFO - The number of test data is: 2874
+2023-09-11 11:24:39,282 - Model - INFO - PARAMETER ...
+2023-09-11 11:24:39,283 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 11:24:39,403 - Model - INFO - The number of training data is: 13998
+2023-09-11 11:24:39,403 - Model - INFO - The number of test data is: 2874
+2023-09-11 11:24:50,709 - Model - INFO - PARAMETER ...
+2023-09-11 11:24:50,709 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 11:24:50,828 - Model - INFO - The number of training data is: 13998
+2023-09-11 11:24:50,828 - Model - INFO - The number of test data is: 2874
+2023-09-11 11:25:36,617 - Model - INFO - PARAMETER ...
+2023-09-11 11:25:36,617 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 11:25:36,736 - Model - INFO - The number of training data is: 13998
+2023-09-11 11:25:36,736 - Model - INFO - The number of test data is: 2874
+2023-09-11 14:56:46,356 - Model - INFO - PARAMETER ...
+2023-09-11 14:56:46,356 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 14:56:46,474 - Model - INFO - The number of training data is: 13998
+2023-09-11 14:56:46,474 - Model - INFO - The number of test data is: 2874
+2023-09-11 14:57:36,740 - Model - INFO - PARAMETER ...
+2023-09-11 14:57:36,741 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 14:57:36,858 - Model - INFO - The number of training data is: 13998
+2023-09-11 14:57:36,858 - Model - INFO - The number of test data is: 2874
+2023-09-11 15:06:11,719 - Model - INFO - PARAMETER ...
+2023-09-11 15:06:11,719 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 15:06:11,844 - Model - INFO - The number of training data is: 13998
+2023-09-11 15:06:11,844 - Model - INFO - The number of test data is: 2874
+2023-09-11 15:12:34,242 - Model - INFO - PARAMETER ...
+2023-09-11 15:12:34,243 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 15:12:34,364 - Model - INFO - The number of training data is: 13998
+2023-09-11 15:12:34,364 - Model - INFO - The number of test data is: 2874
+2023-09-11 15:13:10,697 - Model - INFO - PARAMETER ...
+2023-09-11 15:13:10,698 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 15:13:10,828 - Model - INFO - The number of training data is: 13998
+2023-09-11 15:13:10,828 - Model - INFO - The number of test data is: 2874
+2023-09-11 15:13:12,058 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 15:22:56,468 - Model - INFO - PARAMETER ...
+2023-09-11 15:22:56,468 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 15:22:56,587 - Model - INFO - The number of training data is: 13998
+2023-09-11 15:22:56,587 - Model - INFO - The number of test data is: 2874
+2023-09-11 15:22:57,830 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 15:25:57,858 - Model - INFO - PARAMETER ...
+2023-09-11 15:25:57,858 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 15:25:57,982 - Model - INFO - The number of training data is: 13998
+2023-09-11 15:25:57,983 - Model - INFO - The number of test data is: 2874
+2023-09-11 15:25:59,144 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 15:26:33,321 - Model - INFO - PARAMETER ...
+2023-09-11 15:26:33,321 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 15:26:33,438 - Model - INFO - The number of training data is: 13998
+2023-09-11 15:26:33,438 - Model - INFO - The number of test data is: 2874
+2023-09-11 15:26:34,593 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 15:31:30,665 - Model - INFO - PARAMETER ...
+2023-09-11 15:31:30,665 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 15:31:30,782 - Model - INFO - The number of training data is: 13998
+2023-09-11 15:31:30,782 - Model - INFO - The number of test data is: 2874
+2023-09-11 15:31:31,951 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 15:32:09,880 - Model - INFO - PARAMETER ...
+2023-09-11 15:32:09,881 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 15:32:09,996 - Model - INFO - The number of training data is: 13998
+2023-09-11 15:32:09,996 - Model - INFO - The number of test data is: 2874
+2023-09-11 15:32:11,132 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 15:39:10,335 - Model - INFO - PARAMETER ...
+2023-09-11 15:39:10,335 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 15:39:10,452 - Model - INFO - The number of training data is: 13998
+2023-09-11 15:39:10,452 - Model - INFO - The number of test data is: 2874
+2023-09-11 15:39:11,567 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 15:47:56,083 - Model - INFO - PARAMETER ...
+2023-09-11 15:47:56,083 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 15:47:56,206 - Model - INFO - The number of training data is: 13998
+2023-09-11 15:47:56,206 - Model - INFO - The number of test data is: 2874
+2023-09-11 15:47:57,419 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:03:15,040 - Model - INFO - PARAMETER ...
+2023-09-11 16:03:15,040 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:03:15,156 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:03:15,156 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:03:16,262 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:06:22,482 - Model - INFO - PARAMETER ...
+2023-09-11 16:06:22,482 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:06:22,592 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:06:22,592 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:06:23,697 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:10:04,044 - Model - INFO - PARAMETER ...
+2023-09-11 16:10:04,045 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:10:04,159 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:10:04,159 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:10:05,319 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:11:49,658 - Model - INFO - PARAMETER ...
+2023-09-11 16:11:49,658 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:11:49,770 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:11:49,770 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:11:50,876 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:12:19,651 - Model - INFO - PARAMETER ...
+2023-09-11 16:12:19,651 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:12:19,764 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:12:19,764 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:12:20,900 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:15:47,344 - Model - INFO - PARAMETER ...
+2023-09-11 16:15:47,344 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:15:47,453 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:15:47,453 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:15:48,559 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:25:21,337 - Model - INFO - PARAMETER ...
+2023-09-11 16:25:21,337 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:25:21,448 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:25:21,448 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:25:22,561 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:26:47,266 - Model - INFO - PARAMETER ...
+2023-09-11 16:26:47,266 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:26:47,378 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:26:47,379 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:26:48,481 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:32:45,465 - Model - INFO - PARAMETER ...
+2023-09-11 16:32:45,465 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:32:45,578 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:32:45,578 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:32:46,672 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:36:37,231 - Model - INFO - PARAMETER ...
+2023-09-11 16:36:37,231 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:36:37,341 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:36:37,341 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:36:38,466 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:37:16,526 - Model - INFO - PARAMETER ...
+2023-09-11 16:37:16,527 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:37:16,647 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:37:16,647 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:37:17,757 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:41:55,456 - Model - INFO - PARAMETER ...
+2023-09-11 16:41:55,456 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:41:55,565 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:41:55,565 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:41:56,663 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:49:07,149 - Model - INFO - PARAMETER ...
+2023-09-11 16:49:07,150 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:49:07,266 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:49:07,266 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:49:08,384 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:52:47,264 - Model - INFO - PARAMETER ...
+2023-09-11 16:52:47,264 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:52:47,372 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:52:47,372 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:52:48,473 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:53:17,380 - Model - INFO - PARAMETER ...
+2023-09-11 16:53:17,380 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:53:17,491 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:53:17,491 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:53:18,595 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 16:54:47,538 - Model - INFO - PARAMETER ...
+2023-09-11 16:54:47,538 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 16:54:47,654 - Model - INFO - The number of training data is: 13998
+2023-09-11 16:54:47,654 - Model - INFO - The number of test data is: 2874
+2023-09-11 16:54:48,759 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 17:00:21,365 - Model - INFO - PARAMETER ...
+2023-09-11 17:00:21,366 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 17:00:21,479 - Model - INFO - The number of training data is: 13998
+2023-09-11 17:00:21,479 - Model - INFO - The number of test data is: 2874
+2023-09-11 17:00:22,601 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 17:01:59,963 - Model - INFO - PARAMETER ...
+2023-09-11 17:01:59,963 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 17:02:00,076 - Model - INFO - The number of training data is: 13998
+2023-09-11 17:02:00,076 - Model - INFO - The number of test data is: 2874
+2023-09-11 17:02:01,184 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 17:07:07,096 - Model - INFO - PARAMETER ...
+2023-09-11 17:07:07,096 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 17:07:07,213 - Model - INFO - The number of training data is: 13998
+2023-09-11 17:07:07,213 - Model - INFO - The number of test data is: 2874
+2023-09-11 17:07:08,345 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 17:07:37,350 - Model - INFO - PARAMETER ...
+2023-09-11 17:07:37,351 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 17:07:37,459 - Model - INFO - The number of training data is: 13998
+2023-09-11 17:07:37,459 - Model - INFO - The number of test data is: 2874
+2023-09-11 17:07:38,572 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 17:07:53,333 - Model - INFO - PARAMETER ...
+2023-09-11 17:07:53,334 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 17:07:53,446 - Model - INFO - The number of training data is: 13998
+2023-09-11 17:07:53,446 - Model - INFO - The number of test data is: 2874
+2023-09-11 17:07:54,548 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 17:22:06,365 - Model - INFO - PARAMETER ...
+2023-09-11 17:22:06,365 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 17:22:06,477 - Model - INFO - The number of training data is: 13998
+2023-09-11 17:22:06,477 - Model - INFO - The number of test data is: 2874
+2023-09-11 17:22:07,597 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 17:24:06,899 - Model - INFO - PARAMETER ...
+2023-09-11 17:24:06,900 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 17:24:07,016 - Model - INFO - The number of training data is: 13998
+2023-09-11 17:24:07,016 - Model - INFO - The number of test data is: 2874
+2023-09-11 17:24:08,130 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 17:28:36,261 - Model - INFO - PARAMETER ...
+2023-09-11 17:28:36,261 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 17:28:36,377 - Model - INFO - The number of training data is: 13998
+2023-09-11 17:28:36,377 - Model - INFO - The number of test data is: 2874
+2023-09-11 17:28:37,502 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:06:04,632 - Model - INFO - PARAMETER ...
+2023-09-11 19:06:04,632 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:06:04,745 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:06:04,745 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:06:05,896 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:07:47,903 - Model - INFO - PARAMETER ...
+2023-09-11 19:07:47,903 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:07:48,015 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:07:48,015 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:07:49,121 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:09:24,828 - Model - INFO - PARAMETER ...
+2023-09-11 19:09:24,828 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:09:24,939 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:09:24,939 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:09:26,045 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:13:22,542 - Model - INFO - PARAMETER ...
+2023-09-11 19:13:22,542 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:13:22,658 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:13:22,658 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:13:23,776 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:14:40,788 - Model - INFO - PARAMETER ...
+2023-09-11 19:14:40,788 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:14:40,904 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:14:40,904 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:14:42,024 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:16:07,365 - Model - INFO - PARAMETER ...
+2023-09-11 19:16:07,365 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:16:07,477 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:16:07,477 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:16:08,578 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:16:50,120 - Model - INFO - PARAMETER ...
+2023-09-11 19:16:50,120 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:16:50,233 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:16:50,233 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:16:51,339 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:17:09,031 - Model - INFO - PARAMETER ...
+2023-09-11 19:17:09,031 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:17:09,140 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:17:09,140 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:17:10,251 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:40:08,532 - Model - INFO - PARAMETER ...
+2023-09-11 19:40:08,532 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:40:08,643 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:40:08,643 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:40:09,765 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:40:50,375 - Model - INFO - PARAMETER ...
+2023-09-11 19:40:50,375 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:40:50,487 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:40:50,487 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:40:51,605 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:41:39,021 - Model - INFO - PARAMETER ...
+2023-09-11 19:41:39,021 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=1024, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:41:39,135 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:41:39,136 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:41:40,268 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:44:54,535 - Model - INFO - PARAMETER ...
+2023-09-11 19:44:54,535 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:44:54,650 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:44:54,650 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:44:55,764 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:45:23,888 - Model - INFO - PARAMETER ...
+2023-09-11 19:45:23,888 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:45:23,998 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:45:23,998 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:45:25,182 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:51:25,656 - Model - INFO - PARAMETER ...
+2023-09-11 19:51:25,656 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:51:25,770 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:51:25,770 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:51:26,885 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:52:18,380 - Model - INFO - PARAMETER ...
+2023-09-11 19:52:18,380 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:52:18,491 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:52:18,492 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:52:19,627 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:53:39,025 - Model - INFO - PARAMETER ...
+2023-09-11 19:53:39,026 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:53:39,139 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:53:39,139 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:53:40,253 - Model - INFO - Epoch 1 (1/300):
+2023-09-11 19:54:26,704 - Model - INFO - PARAMETER ...
+2023-09-11 19:54:26,704 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-11 19:54:26,820 - Model - INFO - The number of training data is: 13998
+2023-09-11 19:54:26,820 - Model - INFO - The number of test data is: 2874
+2023-09-11 19:54:27,928 - Model - INFO - Epoch 1 (1/300):
+2023-09-12 19:03:22,813 - Model - INFO - PARAMETER ...
+2023-09-12 19:03:22,814 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-12 19:03:22,940 - Model - INFO - The number of training data is: 13998
+2023-09-12 19:03:22,941 - Model - INFO - The number of test data is: 2874
+2023-09-12 19:03:24,367 - Model - INFO - Epoch 1 (1/300):
+2023-09-12 19:07:02,940 - Model - INFO - PARAMETER ...
+2023-09-12 19:07:02,940 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-12 19:07:03,055 - Model - INFO - The number of training data is: 13998
+2023-09-12 19:07:03,055 - Model - INFO - The number of test data is: 2874
+2023-09-12 19:07:04,205 - Model - INFO - Epoch 1 (1/300):
+2023-09-12 19:29:59,601 - Model - INFO - PARAMETER ...
+2023-09-12 19:29:59,601 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-12 19:29:59,719 - Model - INFO - The number of training data is: 13998
+2023-09-12 19:29:59,720 - Model - INFO - The number of test data is: 2874
+2023-09-12 19:30:00,836 - Model - INFO - Epoch 1 (1/300):
+2023-09-12 20:41:03,886 - Model - INFO - PARAMETER ...
+2023-09-12 20:41:03,887 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-12 20:41:04,002 - Model - INFO - The number of training data is: 13998
+2023-09-12 20:41:04,002 - Model - INFO - The number of test data is: 2874
+2023-09-12 20:41:05,188 - Model - INFO - Epoch 1 (1/300):
+2023-09-12 20:43:45,517 - Model - INFO - PARAMETER ...
+2023-09-12 20:43:45,518 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-12 20:43:45,634 - Model - INFO - The number of training data is: 13998
+2023-09-12 20:43:45,634 - Model - INFO - The number of test data is: 2874
+2023-09-12 20:43:46,855 - Model - INFO - Epoch 1 (1/300):
+2023-09-12 20:44:29,939 - Model - INFO - PARAMETER ...
+2023-09-12 20:44:29,939 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-12 20:44:30,054 - Model - INFO - The number of training data is: 13998
+2023-09-12 20:44:30,055 - Model - INFO - The number of test data is: 2874
+2023-09-12 20:44:31,206 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 15:29:52,210 - Model - INFO - PARAMETER ...
+2023-09-13 15:29:52,211 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 15:29:52,332 - Model - INFO - The number of training data is: 13998
+2023-09-13 15:29:52,332 - Model - INFO - The number of test data is: 2874
+2023-09-13 15:29:53,835 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 15:42:35,102 - Model - INFO - PARAMETER ...
+2023-09-13 15:42:35,103 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 15:42:35,215 - Model - INFO - The number of training data is: 13998
+2023-09-13 15:42:35,215 - Model - INFO - The number of test data is: 2874
+2023-09-13 15:42:36,386 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 15:44:56,876 - Model - INFO - PARAMETER ...
+2023-09-13 15:44:56,876 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 15:44:56,985 - Model - INFO - The number of training data is: 13998
+2023-09-13 15:44:56,986 - Model - INFO - The number of test data is: 2874
+2023-09-13 15:44:58,090 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 15:45:45,837 - Model - INFO - PARAMETER ...
+2023-09-13 15:45:45,837 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 15:45:45,951 - Model - INFO - The number of training data is: 13998
+2023-09-13 15:45:45,951 - Model - INFO - The number of test data is: 2874
+2023-09-13 15:45:47,085 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 16:15:21,560 - Model - INFO - PARAMETER ...
+2023-09-13 16:15:21,560 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 16:15:21,672 - Model - INFO - The number of training data is: 13998
+2023-09-13 16:15:21,672 - Model - INFO - The number of test data is: 2874
+2023-09-13 16:15:22,764 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 16:16:13,415 - Model - INFO - PARAMETER ...
+2023-09-13 16:16:13,416 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 16:16:13,527 - Model - INFO - The number of training data is: 13998
+2023-09-13 16:16:13,527 - Model - INFO - The number of test data is: 2874
+2023-09-13 16:16:14,628 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 16:16:35,418 - Model - INFO - PARAMETER ...
+2023-09-13 16:16:35,418 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 16:16:35,529 - Model - INFO - The number of training data is: 13998
+2023-09-13 16:16:35,529 - Model - INFO - The number of test data is: 2874
+2023-09-13 16:16:36,659 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 16:16:57,814 - Model - INFO - PARAMETER ...
+2023-09-13 16:16:57,814 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 16:16:57,924 - Model - INFO - The number of training data is: 13998
+2023-09-13 16:16:57,925 - Model - INFO - The number of test data is: 2874
+2023-09-13 16:16:59,051 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 16:23:53,441 - Model - INFO - PARAMETER ...
+2023-09-13 16:23:53,441 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 16:23:53,555 - Model - INFO - The number of training data is: 13998
+2023-09-13 16:23:53,555 - Model - INFO - The number of test data is: 2874
+2023-09-13 16:23:54,661 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 16:25:08,326 - Model - INFO - PARAMETER ...
+2023-09-13 16:25:08,326 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 16:25:08,448 - Model - INFO - The number of training data is: 13998
+2023-09-13 16:25:08,448 - Model - INFO - The number of test data is: 2874
+2023-09-13 16:25:09,556 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 17:11:06,830 - Model - INFO - PARAMETER ...
+2023-09-13 17:11:06,830 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 17:11:06,944 - Model - INFO - The number of training data is: 13998
+2023-09-13 17:11:06,944 - Model - INFO - The number of test data is: 2874
+2023-09-13 17:11:08,044 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 17:15:01,678 - Model - INFO - PARAMETER ...
+2023-09-13 17:15:01,678 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 17:15:01,785 - Model - INFO - The number of training data is: 13998
+2023-09-13 17:15:01,786 - Model - INFO - The number of test data is: 2874
+2023-09-13 17:15:02,884 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 17:15:26,643 - Model - INFO - PARAMETER ...
+2023-09-13 17:15:26,643 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 17:15:26,760 - Model - INFO - The number of training data is: 13998
+2023-09-13 17:15:26,760 - Model - INFO - The number of test data is: 2874
+2023-09-13 17:15:27,900 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 20:22:00,914 - Model - INFO - PARAMETER ...
+2023-09-13 20:22:00,914 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 20:22:01,030 - Model - INFO - The number of training data is: 13998
+2023-09-13 20:22:01,030 - Model - INFO - The number of test data is: 2874
+2023-09-13 20:22:02,141 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 20:23:11,141 - Model - INFO - PARAMETER ...
+2023-09-13 20:23:11,142 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 20:23:11,251 - Model - INFO - The number of training data is: 13998
+2023-09-13 20:23:11,251 - Model - INFO - The number of test data is: 2874
+2023-09-13 20:25:14,992 - Model - INFO - PARAMETER ...
+2023-09-13 20:25:14,992 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 20:25:15,107 - Model - INFO - The number of training data is: 13998
+2023-09-13 20:25:15,107 - Model - INFO - The number of test data is: 2874
+2023-09-13 20:28:55,472 - Model - INFO - PARAMETER ...
+2023-09-13 20:28:55,472 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 20:28:55,583 - Model - INFO - The number of training data is: 13998
+2023-09-13 20:28:55,583 - Model - INFO - The number of test data is: 2874
+2023-09-13 20:28:56,695 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 20:29:38,646 - Model - INFO - PARAMETER ...
+2023-09-13 20:29:38,646 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 20:29:38,755 - Model - INFO - The number of training data is: 13998
+2023-09-13 20:29:38,755 - Model - INFO - The number of test data is: 2874
+2023-09-13 20:41:33,192 - Model - INFO - PARAMETER ...
+2023-09-13 20:41:33,193 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 20:41:33,313 - Model - INFO - The number of training data is: 13998
+2023-09-13 20:41:33,314 - Model - INFO - The number of test data is: 2874
+2023-09-13 20:55:27,201 - Model - INFO - PARAMETER ...
+2023-09-13 20:55:27,201 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 20:55:27,326 - Model - INFO - The number of training data is: 13998
+2023-09-13 20:55:27,326 - Model - INFO - The number of test data is: 2874
+2023-09-13 20:57:37,293 - Model - INFO - PARAMETER ...
+2023-09-13 20:57:37,294 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 20:57:37,407 - Model - INFO - The number of training data is: 13998
+2023-09-13 20:57:37,407 - Model - INFO - The number of test data is: 2874
+2023-09-13 21:00:26,405 - Model - INFO - PARAMETER ...
+2023-09-13 21:00:26,405 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 21:00:26,529 - Model - INFO - The number of training data is: 13998
+2023-09-13 21:00:26,529 - Model - INFO - The number of test data is: 2874
+2023-09-13 21:00:27,681 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 21:04:45,760 - Model - INFO - PARAMETER ...
+2023-09-13 21:04:45,760 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 21:04:45,873 - Model - INFO - The number of training data is: 13998
+2023-09-13 21:04:45,873 - Model - INFO - The number of test data is: 2874
+2023-09-13 21:04:46,998 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 21:05:38,092 - Model - INFO - PARAMETER ...
+2023-09-13 21:05:38,092 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 21:05:38,206 - Model - INFO - The number of training data is: 13998
+2023-09-13 21:05:38,206 - Model - INFO - The number of test data is: 2874
+2023-09-13 21:05:39,342 - Model - INFO - Epoch 1 (1/300):
+2023-09-13 21:16:26,826 - Model - INFO - PARAMETER ...
+2023-09-13 21:16:26,827 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 21:16:26,940 - Model - INFO - The number of training data is: 13998
+2023-09-13 21:16:26,940 - Model - INFO - The number of test data is: 2874
+2023-09-13 21:17:27,591 - Model - INFO - PARAMETER ...
+2023-09-13 21:17:27,592 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-13 21:17:27,702 - Model - INFO - The number of training data is: 13998
+2023-09-13 21:17:27,702 - Model - INFO - The number of test data is: 2874
+2023-09-13 21:17:28,840 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 16:19:17,656 - Model - INFO - PARAMETER ...
+2023-09-14 16:19:17,657 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 16:19:17,799 - Model - INFO - The number of training data is: 13998
+2023-09-14 16:19:17,799 - Model - INFO - The number of test data is: 2874
+2023-09-14 16:19:19,227 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 16:40:04,314 - Model - INFO - PARAMETER ...
+2023-09-14 16:40:04,315 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 16:40:04,430 - Model - INFO - The number of training data is: 13998
+2023-09-14 16:40:04,430 - Model - INFO - The number of test data is: 2874
+2023-09-14 16:40:05,637 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 16:40:50,865 - Model - INFO - PARAMETER ...
+2023-09-14 16:40:50,865 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 16:40:50,979 - Model - INFO - The number of training data is: 13998
+2023-09-14 16:40:50,979 - Model - INFO - The number of test data is: 2874
+2023-09-14 16:40:52,110 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 16:41:15,771 - Model - INFO - PARAMETER ...
+2023-09-14 16:41:15,771 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 16:41:15,880 - Model - INFO - The number of training data is: 13998
+2023-09-14 16:41:15,880 - Model - INFO - The number of test data is: 2874
+2023-09-14 16:41:17,010 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 16:43:36,179 - Model - INFO - PARAMETER ...
+2023-09-14 16:43:36,179 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 16:43:36,295 - Model - INFO - The number of training data is: 13998
+2023-09-14 16:43:36,295 - Model - INFO - The number of test data is: 2874
+2023-09-14 16:43:37,433 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 16:44:22,165 - Model - INFO - PARAMETER ...
+2023-09-14 16:44:22,165 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 16:44:22,277 - Model - INFO - The number of training data is: 13998
+2023-09-14 16:44:22,277 - Model - INFO - The number of test data is: 2874
+2023-09-14 16:44:23,412 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 16:49:17,761 - Model - INFO - PARAMETER ...
+2023-09-14 16:49:17,761 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 16:49:17,881 - Model - INFO - The number of training data is: 13998
+2023-09-14 16:49:17,881 - Model - INFO - The number of test data is: 2874
+2023-09-14 16:49:19,059 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 16:50:39,561 - Model - INFO - PARAMETER ...
+2023-09-14 16:50:39,561 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 16:50:39,680 - Model - INFO - The number of training data is: 13998
+2023-09-14 16:50:39,680 - Model - INFO - The number of test data is: 2874
+2023-09-14 16:50:40,836 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 16:52:59,107 - Model - INFO - PARAMETER ...
+2023-09-14 16:52:59,107 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 16:52:59,224 - Model - INFO - The number of training data is: 13998
+2023-09-14 16:52:59,224 - Model - INFO - The number of test data is: 2874
+2023-09-14 16:53:00,373 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 17:12:44,213 - Model - INFO - PARAMETER ...
+2023-09-14 17:12:44,214 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 17:12:44,339 - Model - INFO - The number of training data is: 13998
+2023-09-14 17:12:44,339 - Model - INFO - The number of test data is: 2874
+2023-09-14 17:12:45,486 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 17:14:18,554 - Model - INFO - PARAMETER ...
+2023-09-14 17:14:18,554 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 17:14:18,669 - Model - INFO - The number of training data is: 13998
+2023-09-14 17:14:18,669 - Model - INFO - The number of test data is: 2874
+2023-09-14 17:14:19,821 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 18:57:15,639 - Model - INFO - PARAMETER ...
+2023-09-14 18:57:15,639 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 18:57:15,755 - Model - INFO - The number of training data is: 13998
+2023-09-14 18:57:15,755 - Model - INFO - The number of test data is: 2874
+2023-09-14 18:57:16,895 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 18:58:01,877 - Model - INFO - PARAMETER ...
+2023-09-14 18:58:01,877 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 18:58:01,994 - Model - INFO - The number of training data is: 13998
+2023-09-14 18:58:01,994 - Model - INFO - The number of test data is: 2874
+2023-09-14 18:58:03,149 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 19:05:13,343 - Model - INFO - PARAMETER ...
+2023-09-14 19:05:13,343 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 19:05:13,460 - Model - INFO - The number of training data is: 13998
+2023-09-14 19:05:13,460 - Model - INFO - The number of test data is: 2874
+2023-09-14 19:05:14,623 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 19:13:31,548 - Model - INFO - PARAMETER ...
+2023-09-14 19:13:31,548 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 19:13:31,666 - Model - INFO - The number of training data is: 13998
+2023-09-14 19:13:31,666 - Model - INFO - The number of test data is: 2874
+2023-09-14 19:13:32,898 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 19:22:10,001 - Model - INFO - PARAMETER ...
+2023-09-14 19:22:10,002 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 19:22:10,126 - Model - INFO - The number of training data is: 13998
+2023-09-14 19:22:10,126 - Model - INFO - The number of test data is: 2874
+2023-09-14 19:22:11,398 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:20:06,987 - Model - INFO - PARAMETER ...
+2023-09-14 20:20:06,987 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:20:07,105 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:20:07,105 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:20:08,324 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:21:13,251 - Model - INFO - PARAMETER ...
+2023-09-14 20:21:13,251 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:21:13,371 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:21:13,372 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:21:14,693 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:22:43,084 - Model - INFO - PARAMETER ...
+2023-09-14 20:22:43,085 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:22:43,203 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:22:43,203 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:22:44,403 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:23:05,555 - Model - INFO - PARAMETER ...
+2023-09-14 20:23:05,556 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:23:05,674 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:23:05,674 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:23:06,953 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:32:04,858 - Model - INFO - PARAMETER ...
+2023-09-14 20:32:04,858 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:32:04,976 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:32:04,976 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:32:06,123 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:32:47,088 - Model - INFO - PARAMETER ...
+2023-09-14 20:32:47,088 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:32:47,205 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:32:47,205 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:32:48,399 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:39:31,717 - Model - INFO - PARAMETER ...
+2023-09-14 20:39:31,717 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:39:31,832 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:39:31,832 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:39:32,995 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:44:35,020 - Model - INFO - PARAMETER ...
+2023-09-14 20:44:35,020 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:44:35,136 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:44:35,136 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:46:05,334 - Model - INFO - PARAMETER ...
+2023-09-14 20:46:05,334 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:46:05,453 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:46:05,454 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:46:06,645 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:56:00,133 - Model - INFO - PARAMETER ...
+2023-09-14 20:56:00,133 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:56:00,248 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:56:00,248 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:56:01,398 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:56:13,449 - Model - INFO - PARAMETER ...
+2023-09-14 20:56:13,450 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:56:13,558 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:56:13,558 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:56:14,715 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:57:29,196 - Model - INFO - PARAMETER ...
+2023-09-14 20:57:29,196 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:57:29,313 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:57:29,313 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:57:30,470 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:58:09,666 - Model - INFO - PARAMETER ...
+2023-09-14 20:58:09,666 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:58:09,776 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:58:09,776 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:58:10,915 - Model - INFO - Epoch 1 (1/300):
+2023-09-14 20:59:52,634 - Model - INFO - PARAMETER ...
+2023-09-14 20:59:52,634 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-14 20:59:52,750 - Model - INFO - The number of training data is: 13998
+2023-09-14 20:59:52,750 - Model - INFO - The number of test data is: 2874
+2023-09-14 20:59:53,949 - Model - INFO - Epoch 1 (1/300):
+2023-09-15 09:08:29,741 - Model - INFO - PARAMETER ...
+2023-09-15 09:08:29,742 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-15 09:08:29,872 - Model - INFO - The number of training data is: 13998
+2023-09-15 09:08:29,872 - Model - INFO - The number of test data is: 2874
+2023-09-15 09:08:31,287 - Model - INFO - Epoch 1 (1/300):
+2023-09-15 09:09:01,129 - Model - INFO - PARAMETER ...
+2023-09-15 09:09:01,129 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-15 09:09:01,243 - Model - INFO - The number of training data is: 13998
+2023-09-15 09:09:01,244 - Model - INFO - The number of test data is: 2874
+2023-09-15 09:09:02,425 - Model - INFO - Epoch 1 (1/300):
+2023-09-15 09:09:32,861 - Model - INFO - PARAMETER ...
+2023-09-15 09:09:32,861 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-15 09:09:32,971 - Model - INFO - The number of training data is: 13998
+2023-09-15 09:09:32,972 - Model - INFO - The number of test data is: 2874
+2023-09-15 09:09:34,106 - Model - INFO - Epoch 1 (1/300):
+2023-09-15 09:09:58,865 - Model - INFO - PARAMETER ...
+2023-09-15 09:09:58,865 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-15 09:09:58,978 - Model - INFO - The number of training data is: 13998
+2023-09-15 09:09:58,978 - Model - INFO - The number of test data is: 2874
+2023-09-15 09:10:00,122 - Model - INFO - Epoch 1 (1/300):
+2023-09-15 09:10:41,395 - Model - INFO - PARAMETER ...
+2023-09-15 09:10:41,395 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-15 09:10:41,509 - Model - INFO - The number of training data is: 13998
+2023-09-15 09:10:41,509 - Model - INFO - The number of test data is: 2874
+2023-09-15 09:10:42,650 - Model - INFO - Epoch 1 (1/300):
+2023-09-15 09:12:36,078 - Model - INFO - PARAMETER ...
+2023-09-15 09:12:36,079 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-15 09:12:36,193 - Model - INFO - The number of training data is: 13998
+2023-09-15 09:12:36,193 - Model - INFO - The number of test data is: 2874
+2023-09-15 09:12:37,366 - Model - INFO - Epoch 1 (1/300):
+2023-09-15 09:13:18,723 - Model - INFO - PARAMETER ...
+2023-09-15 09:13:18,723 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-15 09:13:18,777 - Model - INFO - The number of training data is: 13998
+2023-09-15 09:13:18,777 - Model - INFO - The number of test data is: 2874
+2023-09-15 09:13:19,900 - Model - INFO - Epoch 1 (1/300):
+2023-09-15 09:30:23,000 - Model - INFO - Train accuracy is: 0.55617
+2023-09-15 09:30:23,000 - Model - INFO - Train loss: 2.74579
+2023-09-15 09:30:23,000 - Model - INFO - lr: 0.000001
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Airplane       0.509927
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Bag            0.467146
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Cap            0.573852
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Car            0.242718
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Chair          0.756190
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Earphone       0.479684
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Guitar         0.534871
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Knife          0.760085
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Lamp           0.622715
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Laptop         0.901639
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Motorbike      0.169040
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Mug            0.486919
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Pistol         0.558280
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Rocket         0.249006
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Skateboard     0.437717
+2023-09-15 09:33:12,218 - Model - INFO - eval mIoU of Table          0.728059
+2023-09-15 09:33:12,219 - Model - INFO - Epoch 1 test Accuracy: 0.824891  Class avg mIOU: 0.529865   Inctance avg mIOU: 0.643209
+2023-09-15 09:33:12,219 - Model - INFO - Save model...
+2023-09-15 09:33:12,219 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-15 09:33:54,856 - Model - INFO - PARAMETER ...
+2023-09-15 09:33:54,856 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/log/part_seg/exp/checkpoints/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-15 09:33:54,910 - Model - INFO - The number of training data is: 13998
+2023-09-15 09:33:54,910 - Model - INFO - The number of test data is: 2874
+2023-09-15 09:33:56,182 - Model - INFO - Epoch 1 (1/300):
+2023-09-15 09:51:09,743 - Model - INFO - Train accuracy is: 0.55453
+2023-09-15 09:51:09,743 - Model - INFO - Train loss: 2.74688
+2023-09-15 09:51:09,743 - Model - INFO - lr: 0.000001
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Airplane       0.548608
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Bag            0.438128
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Cap            0.517042
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Car            0.242226
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Chair          0.789146
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Earphone       0.225220
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Guitar         0.368365
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Knife          0.778905
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Lamp           0.610800
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Laptop         0.915910
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Motorbike      0.168835
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Mug            0.486000
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Pistol         0.529232
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Rocket         0.227347
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Skateboard     0.437844
+2023-09-15 09:54:03,988 - Model - INFO - eval mIoU of Table          0.742895
+2023-09-15 09:54:03,988 - Model - INFO - Epoch 1 test Accuracy: 0.832295  Class avg mIOU: 0.501656   Inctance avg mIOU: 0.648613
+2023-09-15 09:54:03,988 - Model - INFO - Save model...
+2023-09-15 09:54:03,988 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-15 09:54:04,634 - Model - INFO - Saving model....
+2023-09-15 09:54:04,634 - Model - INFO - Best accuracy is: 0.83229
+2023-09-15 09:54:04,634 - Model - INFO - Best class avg mIOU is: 0.50166
+2023-09-15 09:54:04,635 - Model - INFO - Best inctance avg mIOU is: 0.64861
+2023-09-15 09:54:04,635 - Model - INFO - Epoch 2 (2/300):
+2023-09-15 10:11:14,738 - Model - INFO - Train accuracy is: 0.77136
+2023-09-15 10:11:14,738 - Model - INFO - Train loss: 1.66473
+2023-09-15 10:11:14,738 - Model - INFO - lr: 0.000002
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Airplane       0.588702
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Bag            0.448225
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Cap            0.401989
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Car            0.240887
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Chair          0.744082
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Earphone       0.629455
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Guitar         0.406039
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Knife          0.757865
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Lamp           0.661614
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Laptop         0.915669
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Motorbike      0.168899
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Mug            0.486110
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Pistol         0.565813
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Rocket         0.226508
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Skateboard     0.437101
+2023-09-15 10:14:05,533 - Model - INFO - eval mIoU of Table          0.737321
+2023-09-15 10:14:05,533 - Model - INFO - Epoch 2 test Accuracy: 0.833857  Class avg mIOU: 0.526017   Inctance avg mIOU: 0.649290
+2023-09-15 10:14:05,533 - Model - INFO - Save model...
+2023-09-15 10:14:05,533 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-15 10:14:06,465 - Model - INFO - Saving model....
+2023-09-15 10:14:06,465 - Model - INFO - Best accuracy is: 0.83386
+2023-09-15 10:14:06,465 - Model - INFO - Best class avg mIOU is: 0.52602
+2023-09-15 10:14:06,465 - Model - INFO - Best inctance avg mIOU is: 0.64929
+2023-09-15 10:14:06,465 - Model - INFO - Epoch 3 (3/300):
+2023-09-15 10:31:20,528 - Model - INFO - Train accuracy is: 0.82670
+2023-09-15 10:31:20,529 - Model - INFO - Train loss: 1.31557
+2023-09-15 10:31:20,529 - Model - INFO - lr: 0.000003
+2023-09-15 10:34:11,220 - Model - INFO - eval mIoU of Airplane       0.700084
+2023-09-15 10:34:11,220 - Model - INFO - eval mIoU of Bag            0.448434
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Cap            0.404958
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Car            0.241584
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Chair          0.800009
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Earphone       0.538317
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Guitar         0.403254
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Knife          0.771668
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Lamp           0.662556
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Laptop         0.921321
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Motorbike      0.168629
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Mug            0.486450
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Pistol         0.510158
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Rocket         0.226902
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Skateboard     0.437479
+2023-09-15 10:34:11,221 - Model - INFO - eval mIoU of Table          0.759897
+2023-09-15 10:34:11,221 - Model - INFO - Epoch 3 test Accuracy: 0.859520  Class avg mIOU: 0.530106   Inctance avg mIOU: 0.682114
+2023-09-15 10:34:11,221 - Model - INFO - Save model...
+2023-09-15 10:34:11,221 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-15 10:34:12,163 - Model - INFO - Saving model....
+2023-09-15 10:34:12,163 - Model - INFO - Best accuracy is: 0.85952
+2023-09-15 10:34:12,163 - Model - INFO - Best class avg mIOU is: 0.53011
+2023-09-15 10:34:12,163 - Model - INFO - Best inctance avg mIOU is: 0.68211
+2023-09-15 10:34:12,163 - Model - INFO - Epoch 4 (4/300):
+2023-09-15 10:51:26,982 - Model - INFO - Train accuracy is: 0.85571
+2023-09-15 10:51:26,982 - Model - INFO - Train loss: 1.16200
+2023-09-15 10:51:26,982 - Model - INFO - lr: 0.000004
+2023-09-15 10:54:18,110 - Model - INFO - eval mIoU of Airplane       0.688981
+2023-09-15 10:54:18,110 - Model - INFO - eval mIoU of Bag            0.449690
+2023-09-15 10:54:18,110 - Model - INFO - eval mIoU of Cap            0.367459
+2023-09-15 10:54:18,110 - Model - INFO - eval mIoU of Car            0.247216
+2023-09-15 10:54:18,110 - Model - INFO - eval mIoU of Chair          0.826460
+2023-09-15 10:54:18,110 - Model - INFO - eval mIoU of Earphone       0.563864
+2023-09-15 10:54:18,110 - Model - INFO - eval mIoU of Guitar         0.678352
+2023-09-15 10:54:18,110 - Model - INFO - eval mIoU of Knife          0.686806
+2023-09-15 10:54:18,110 - Model - INFO - eval mIoU of Lamp           0.629891
+2023-09-15 10:54:18,110 - Model - INFO - eval mIoU of Laptop         0.936513
+2023-09-15 10:54:18,110 - Model - INFO - eval mIoU of Motorbike      0.168883
+2023-09-15 10:54:18,111 - Model - INFO - eval mIoU of Mug            0.486739
+2023-09-15 10:54:18,111 - Model - INFO - eval mIoU of Pistol         0.545145
+2023-09-15 10:54:18,111 - Model - INFO - eval mIoU of Rocket         0.228597
+2023-09-15 10:54:18,111 - Model - INFO - eval mIoU of Skateboard     0.437416
+2023-09-15 10:54:18,111 - Model - INFO - eval mIoU of Table          0.739342
+2023-09-15 10:54:18,111 - Model - INFO - Epoch 4 test Accuracy: 0.861123  Class avg mIOU: 0.542585   Inctance avg mIOU: 0.692103
+2023-09-15 10:54:18,111 - Model - INFO - Save model...
+2023-09-15 10:54:18,111 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-15 10:54:19,034 - Model - INFO - Saving model....
+2023-09-15 10:54:19,034 - Model - INFO - Best accuracy is: 0.86112
+2023-09-15 10:54:19,034 - Model - INFO - Best class avg mIOU is: 0.54258
+2023-09-15 10:54:19,034 - Model - INFO - Best inctance avg mIOU is: 0.69210
+2023-09-15 10:54:19,034 - Model - INFO - Epoch 5 (5/300):
+2023-09-15 11:11:31,480 - Model - INFO - Train accuracy is: 0.87128
+2023-09-15 11:11:31,480 - Model - INFO - Train loss: 1.09476
+2023-09-15 11:11:31,480 - Model - INFO - lr: 0.000005
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Airplane       0.684916
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Bag            0.447719
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Cap            0.415040
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Car            0.392080
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Chair          0.806255
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Earphone       0.532174
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Guitar         0.709846
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Knife          0.757474
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Lamp           0.628312
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Laptop         0.931686
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Motorbike      0.169182
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Mug            0.486637
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Pistol         0.522961
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Rocket         0.228502
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Skateboard     0.438079
+2023-09-15 11:14:22,074 - Model - INFO - eval mIoU of Table          0.732040
+2023-09-15 11:14:22,074 - Model - INFO - Epoch 5 test Accuracy: 0.854125  Class avg mIOU: 0.555181   Inctance avg mIOU: 0.695583
+2023-09-15 11:14:22,074 - Model - INFO - Save model...
+2023-09-15 11:14:22,074 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-15 11:14:23,009 - Model - INFO - Saving model....
+2023-09-15 11:14:23,009 - Model - INFO - Best accuracy is: 0.86112
+2023-09-15 11:14:23,009 - Model - INFO - Best class avg mIOU is: 0.55518
+2023-09-15 11:14:23,009 - Model - INFO - Best inctance avg mIOU is: 0.69558
+2023-09-15 11:14:23,009 - Model - INFO - Epoch 6 (6/300):
+2023-09-22 09:07:38,159 - Model - INFO - PARAMETER ...
+2023-09-22 09:07:38,160 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-22 09:07:38,231 - Model - INFO - The number of training data is: 13998
+2023-09-22 09:07:38,231 - Model - INFO - The number of test data is: 2874
+2023-09-22 09:08:34,716 - Model - INFO - PARAMETER ...
+2023-09-22 09:08:34,716 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-22 09:08:34,766 - Model - INFO - The number of training data is: 13998
+2023-09-22 09:08:34,766 - Model - INFO - The number of test data is: 2874
+2023-09-22 09:08:35,854 - Model - INFO - Epoch 1 (1/300):
+2023-09-22 09:24:49,048 - Model - INFO - Train accuracy is: 0.59190
+2023-09-22 09:24:49,048 - Model - INFO - Train loss: 2.64105
+2023-09-22 09:24:49,048 - Model - INFO - lr: 0.000001
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Airplane       0.554182
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Bag            0.473329
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Cap            0.602990
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Car            0.242397
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Chair          0.791394
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Earphone       0.530996
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Guitar         0.386613
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Knife          0.780525
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Lamp           0.629386
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Laptop         0.879300
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Motorbike      0.169646
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Mug            0.486148
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Pistol         0.543025
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Rocket         0.226630
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Skateboard     0.436581
+2023-09-22 09:27:23,739 - Model - INFO - eval mIoU of Table          0.698736
+2023-09-22 09:27:23,740 - Model - INFO - Epoch 1 test Accuracy: 0.831573  Class avg mIOU: 0.526992   Inctance avg mIOU: 0.640852
+2023-09-22 09:27:23,740 - Model - INFO - Save model...
+2023-09-22 09:27:23,740 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-22 09:27:24,487 - Model - INFO - Saving model....
+2023-09-22 09:27:24,487 - Model - INFO - Best accuracy is: 0.83157
+2023-09-22 09:27:24,487 - Model - INFO - Best class avg mIOU is: 0.52699
+2023-09-22 09:27:24,487 - Model - INFO - Best inctance avg mIOU is: 0.64085
+2023-09-22 09:27:24,487 - Model - INFO - Epoch 2 (2/300):
+2023-09-22 09:43:26,203 - Model - INFO - Train accuracy is: 0.79518
+2023-09-22 09:43:26,203 - Model - INFO - Train loss: 1.59360
+2023-09-22 09:43:26,203 - Model - INFO - lr: 0.000002
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Airplane       0.633367
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Bag            0.447004
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Cap            0.571738
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Car            0.242089
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Chair          0.765073
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Earphone       0.523291
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Guitar         0.419108
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Knife          0.783388
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Lamp           0.648036
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Laptop         0.902012
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Motorbike      0.168626
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Mug            0.486547
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Pistol         0.543511
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Rocket         0.226685
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Skateboard     0.437258
+2023-09-22 09:46:04,066 - Model - INFO - eval mIoU of Table          0.733817
+2023-09-22 09:46:04,066 - Model - INFO - Epoch 2 test Accuracy: 0.840123  Class avg mIOU: 0.533222   Inctance avg mIOU: 0.658240
+2023-09-22 09:46:04,066 - Model - INFO - Save model...
+2023-09-22 09:46:04,066 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-22 09:46:04,873 - Model - INFO - Saving model....
+2023-09-22 09:46:04,873 - Model - INFO - Best accuracy is: 0.84012
+2023-09-22 09:46:04,873 - Model - INFO - Best class avg mIOU is: 0.53322
+2023-09-22 09:46:04,873 - Model - INFO - Best inctance avg mIOU is: 0.65824
+2023-09-22 09:46:04,874 - Model - INFO - Epoch 3 (3/300):
+2023-09-22 10:02:04,600 - Model - INFO - Train accuracy is: 0.83969
+2023-09-22 10:02:04,600 - Model - INFO - Train loss: 1.27898
+2023-09-22 10:02:04,600 - Model - INFO - lr: 0.000003
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Airplane       0.663901
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Bag            0.447981
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Cap            0.373978
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Car            0.241146
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Chair          0.807298
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Earphone       0.354620
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Guitar         0.674590
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Knife          0.758670
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Lamp           0.677897
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Laptop         0.939149
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Motorbike      0.168982
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Mug            0.486598
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Pistol         0.371089
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Rocket         0.226562
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Skateboard     0.437610
+2023-09-22 10:04:40,803 - Model - INFO - eval mIoU of Table          0.730332
+2023-09-22 10:04:40,804 - Model - INFO - Epoch 3 test Accuracy: 0.862004  Class avg mIOU: 0.522525   Inctance avg mIOU: 0.684413
+2023-09-22 10:04:40,804 - Model - INFO - Save model...
+2023-09-22 10:04:40,804 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-22 10:04:41,622 - Model - INFO - Saving model....
+2023-09-22 10:04:41,622 - Model - INFO - Best accuracy is: 0.86200
+2023-09-22 10:04:41,622 - Model - INFO - Best class avg mIOU is: 0.53322
+2023-09-22 10:04:41,622 - Model - INFO - Best inctance avg mIOU is: 0.68441
+2023-09-22 10:04:41,623 - Model - INFO - Epoch 4 (4/300):
+2023-09-22 10:20:39,208 - Model - INFO - Train accuracy is: 0.86688
+2023-09-22 10:20:39,208 - Model - INFO - Train loss: 1.13241
+2023-09-22 10:20:39,208 - Model - INFO - lr: 0.000004
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Airplane       0.645828
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Bag            0.447580
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Cap            0.365345
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Car            0.311936
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Chair          0.817286
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Earphone       0.357350
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Guitar         0.730547
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Knife          0.710569
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Lamp           0.606867
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Laptop         0.903627
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Motorbike      0.168771
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Mug            0.485686
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Pistol         0.494178
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Rocket         0.225979
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Skateboard     0.437574
+2023-09-22 10:23:15,668 - Model - INFO - eval mIoU of Table          0.717616
+2023-09-22 10:23:15,668 - Model - INFO - Epoch 4 test Accuracy: 0.850355  Class avg mIOU: 0.526671   Inctance avg mIOU: 0.680362
+2023-09-22 10:23:15,668 - Model - INFO - Best accuracy is: 0.86200
+2023-09-22 10:23:15,668 - Model - INFO - Best class avg mIOU is: 0.53322
+2023-09-22 10:23:15,668 - Model - INFO - Best inctance avg mIOU is: 0.68441
+2023-09-22 10:23:15,668 - Model - INFO - Epoch 5 (5/300):
+2023-09-22 10:39:13,053 - Model - INFO - Train accuracy is: 0.88171
+2023-09-22 10:39:13,053 - Model - INFO - Train loss: 1.06305
+2023-09-22 10:39:13,053 - Model - INFO - lr: 0.000005
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Airplane       0.635347
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Bag            0.449794
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Cap            0.377141
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Car            0.403666
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Chair          0.747647
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Earphone       0.529506
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Guitar         0.455697
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Knife          0.696396
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Lamp           0.697607
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Laptop         0.815009
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Motorbike      0.168733
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Mug            0.486007
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Pistol         0.512101
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Rocket         0.226427
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Skateboard     0.437138
+2023-09-22 10:41:49,181 - Model - INFO - eval mIoU of Table          0.697222
+2023-09-22 10:41:49,182 - Model - INFO - Epoch 5 test Accuracy: 0.837929  Class avg mIOU: 0.520965   Inctance avg mIOU: 0.653126
+2023-09-22 10:41:49,182 - Model - INFO - Best accuracy is: 0.86200
+2023-09-22 10:41:49,182 - Model - INFO - Best class avg mIOU is: 0.53322
+2023-09-22 10:41:49,182 - Model - INFO - Best inctance avg mIOU is: 0.68441
+2023-09-22 10:41:49,182 - Model - INFO - Epoch 6 (6/300):
+2023-09-22 14:22:23,367 - Model - INFO - PARAMETER ...
+2023-09-22 14:22:23,367 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-300.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-22 14:22:23,422 - Model - INFO - The number of training data is: 13998
+2023-09-22 14:22:23,422 - Model - INFO - The number of test data is: 2874
+2023-09-22 14:22:24,559 - Model - INFO - Epoch 1 (1/300):
+2023-09-22 14:38:26,603 - Model - INFO - Train accuracy is: 0.07658
+2023-09-22 14:38:26,603 - Model - INFO - Train loss: nan
+2023-09-22 14:38:26,603 - Model - INFO - lr: 0.000001
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Airplane       0.224335
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Bag            0.053606
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Cap            0.364191
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Car            0.020930
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Chair          0.295888
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Earphone       0.351807
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Guitar         0.030945
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Knife          0.247626
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Lamp           0.255789
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Laptop         0.271687
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Motorbike      0.066768
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Mug            0.026990
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Pistol         0.236805
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Rocket         0.227512
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Skateboard     0.147876
+2023-09-22 14:41:01,549 - Model - INFO - eval mIoU of Table          0.459309
+2023-09-22 14:41:01,550 - Model - INFO - Epoch 1 test Accuracy: 0.420669  Class avg mIOU: 0.205129   Inctance avg mIOU: 0.288757
+2023-09-22 14:41:01,550 - Model - INFO - Save model...
+2023-09-22 14:41:01,550 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-22 14:41:02,370 - Model - INFO - Saving model....
+2023-09-22 14:41:02,370 - Model - INFO - Best accuracy is: 0.42067
+2023-09-22 14:41:02,370 - Model - INFO - Best class avg mIOU is: 0.20513
+2023-09-22 14:41:02,370 - Model - INFO - Best inctance avg mIOU is: 0.28876
+2023-09-22 14:41:02,370 - Model - INFO - Epoch 2 (2/300):
+2023-09-22 14:56:55,433 - Model - INFO - Train accuracy is: 0.07557
+2023-09-22 14:56:55,433 - Model - INFO - Train loss: nan
+2023-09-22 14:56:55,433 - Model - INFO - lr: 0.000002
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Airplane       0.224401
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Bag            0.052089
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Cap            0.367920
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Car            0.020849
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Chair          0.295652
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Earphone       0.351156
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Guitar         0.031085
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Knife          0.248401
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Lamp           0.255751
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Laptop         0.270220
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Motorbike      0.066754
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Mug            0.026810
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Pistol         0.236813
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Rocket         0.226725
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Skateboard     0.147865
+2023-09-22 14:59:29,965 - Model - INFO - eval mIoU of Table          0.459633
+2023-09-22 14:59:29,965 - Model - INFO - Epoch 2 test Accuracy: 0.420344  Class avg mIOU: 0.205133   Inctance avg mIOU: 0.288779
+2023-09-22 14:59:29,965 - Model - INFO - Save model...
+2023-09-22 14:59:29,966 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-22 14:59:30,781 - Model - INFO - Saving model....
+2023-09-22 14:59:30,781 - Model - INFO - Best accuracy is: 0.42067
+2023-09-22 14:59:30,781 - Model - INFO - Best class avg mIOU is: 0.20513
+2023-09-22 14:59:30,781 - Model - INFO - Best inctance avg mIOU is: 0.28878
+2023-09-22 14:59:30,781 - Model - INFO - Epoch 3 (3/300):
+2023-09-22 15:01:27,795 - Model - INFO - PARAMETER ...
+2023-09-22 15:01:27,796 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-300.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-22 15:01:27,846 - Model - INFO - The number of training data is: 13998
+2023-09-22 15:01:27,846 - Model - INFO - The number of test data is: 2874
+2023-09-22 15:01:28,913 - Model - INFO - Epoch 1 (1/300):
+2023-09-22 15:15:21,078 - Model - INFO - PARAMETER ...
+2023-09-22 15:15:21,078 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-300.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-22 15:15:21,128 - Model - INFO - The number of training data is: 13998
+2023-09-22 15:15:21,129 - Model - INFO - The number of test data is: 2874
+2023-09-22 15:15:22,214 - Model - INFO - Epoch 1 (1/300):
+2023-09-22 15:31:29,083 - Model - INFO - Train accuracy is: 0.59234
+2023-09-22 15:31:29,083 - Model - INFO - Train loss: 2.71353
+2023-09-22 15:31:29,084 - Model - INFO - lr: 0.000001
+2023-09-22 15:34:06,731 - Model - INFO - eval mIoU of Airplane       0.528017
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Bag            0.447283
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Cap            0.487307
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Car            0.240795
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Chair          0.757907
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Earphone       0.544032
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Guitar         0.426882
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Knife          0.775502
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Lamp           0.628934
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Laptop         0.896794
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Motorbike      0.169120
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Mug            0.485994
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Pistol         0.563874
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Rocket         0.232537
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Skateboard     0.437017
+2023-09-22 15:34:06,732 - Model - INFO - eval mIoU of Table          0.741540
+2023-09-22 15:34:06,732 - Model - INFO - Epoch 1 test Accuracy: 0.833108  Class avg mIOU: 0.522721   Inctance avg mIOU: 0.644466
+2023-09-22 15:34:06,732 - Model - INFO - Save model...
+2023-09-22 15:34:06,732 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-22 15:34:07,562 - Model - INFO - Saving model....
+2023-09-22 15:34:07,562 - Model - INFO - Best accuracy is: 0.83311
+2023-09-22 15:34:07,562 - Model - INFO - Best class avg mIOU is: 0.52272
+2023-09-22 15:34:07,562 - Model - INFO - Best inctance avg mIOU is: 0.64447
+2023-09-22 15:34:07,563 - Model - INFO - Epoch 2 (2/300):
+2023-09-22 15:50:18,189 - Model - INFO - Train accuracy is: 0.79925
+2023-09-22 15:50:18,189 - Model - INFO - Train loss: 1.59760
+2023-09-22 15:50:18,189 - Model - INFO - lr: 0.000002
+2023-09-22 15:52:55,824 - Model - INFO - eval mIoU of Airplane       0.595217
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Bag            0.448260
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Cap            0.513852
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Car            0.242525
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Chair          0.798129
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Earphone       0.506417
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Guitar         0.444078
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Knife          0.795334
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Lamp           0.661212
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Laptop         0.902578
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Motorbike      0.168982
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Mug            0.486084
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Pistol         0.520113
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Rocket         0.225423
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Skateboard     0.437747
+2023-09-22 15:52:55,825 - Model - INFO - eval mIoU of Table          0.702462
+2023-09-22 15:52:55,825 - Model - INFO - Epoch 2 test Accuracy: 0.831502  Class avg mIOU: 0.528026   Inctance avg mIOU: 0.654969
+2023-09-22 15:52:55,825 - Model - INFO - Save model...
+2023-09-22 15:52:55,825 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-22 15:52:56,645 - Model - INFO - Saving model....
+2023-09-22 15:52:56,645 - Model - INFO - Best accuracy is: 0.83311
+2023-09-22 15:52:56,645 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 15:52:56,645 - Model - INFO - Best inctance avg mIOU is: 0.65497
+2023-09-22 15:52:56,645 - Model - INFO - Epoch 3 (3/300):
+2023-09-22 16:09:06,155 - Model - INFO - Train accuracy is: 0.84092
+2023-09-22 16:09:06,155 - Model - INFO - Train loss: 1.26834
+2023-09-22 16:09:06,155 - Model - INFO - lr: 0.000003
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Airplane       0.612628
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Bag            0.447074
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Cap            0.377021
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Car            0.270573
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Chair          0.789433
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Earphone       0.547326
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Guitar         0.414081
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Knife          0.656195
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Lamp           0.628403
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Laptop         0.874388
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Motorbike      0.168529
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Mug            0.486148
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Pistol         0.511631
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Rocket         0.226685
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Skateboard     0.437558
+2023-09-22 16:11:43,233 - Model - INFO - eval mIoU of Table          0.744489
+2023-09-22 16:11:43,233 - Model - INFO - Epoch 3 test Accuracy: 0.846863  Class avg mIOU: 0.512010   Inctance avg mIOU: 0.658772
+2023-09-22 16:11:43,233 - Model - INFO - Save model...
+2023-09-22 16:11:43,233 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-22 16:11:44,047 - Model - INFO - Saving model....
+2023-09-22 16:11:44,047 - Model - INFO - Best accuracy is: 0.84686
+2023-09-22 16:11:44,047 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 16:11:44,047 - Model - INFO - Best inctance avg mIOU is: 0.65877
+2023-09-22 16:11:44,047 - Model - INFO - Epoch 4 (4/300):
+2023-09-22 16:27:51,100 - Model - INFO - Train accuracy is: 0.86636
+2023-09-22 16:27:51,100 - Model - INFO - Train loss: 1.13253
+2023-09-22 16:27:51,100 - Model - INFO - lr: 0.000004
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Airplane       0.630896
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Bag            0.447981
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Cap            0.364480
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Car            0.265433
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Chair          0.790087
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Earphone       0.482269
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Guitar         0.456295
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Knife          0.697008
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Lamp           0.633594
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Laptop         0.922885
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Motorbike      0.169344
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Mug            0.486881
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Pistol         0.497446
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Rocket         0.227186
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Skateboard     0.437169
+2023-09-22 16:30:27,937 - Model - INFO - eval mIoU of Table          0.751377
+2023-09-22 16:30:27,938 - Model - INFO - Epoch 4 test Accuracy: 0.850801  Class avg mIOU: 0.516271   Inctance avg mIOU: 0.667682
+2023-09-22 16:30:27,938 - Model - INFO - Save model...
+2023-09-22 16:30:27,938 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-22 16:30:28,758 - Model - INFO - Saving model....
+2023-09-22 16:30:28,758 - Model - INFO - Best accuracy is: 0.85080
+2023-09-22 16:30:28,758 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 16:30:28,758 - Model - INFO - Best inctance avg mIOU is: 0.66768
+2023-09-22 16:30:28,758 - Model - INFO - Epoch 5 (5/300):
+2023-09-22 16:46:38,554 - Model - INFO - Train accuracy is: 0.88169
+2023-09-22 16:46:38,554 - Model - INFO - Train loss: 1.06284
+2023-09-22 16:46:38,554 - Model - INFO - lr: 0.000005
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Airplane       0.645196
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Bag            0.448138
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Cap            0.364302
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Car            0.325323
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Chair          0.802160
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Earphone       0.572330
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Guitar         0.428892
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Knife          0.653931
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Lamp           0.666430
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Laptop         0.875452
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Motorbike      0.168915
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Mug            0.487138
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Pistol         0.486165
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Rocket         0.226888
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Skateboard     0.437190
+2023-09-22 16:49:16,531 - Model - INFO - eval mIoU of Table          0.722120
+2023-09-22 16:49:16,531 - Model - INFO - Epoch 5 test Accuracy: 0.847350  Class avg mIOU: 0.519411   Inctance avg mIOU: 0.666440
+2023-09-22 16:49:16,531 - Model - INFO - Best accuracy is: 0.85080
+2023-09-22 16:49:16,531 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 16:49:16,531 - Model - INFO - Best inctance avg mIOU is: 0.66768
+2023-09-22 16:49:16,532 - Model - INFO - Epoch 6 (6/300):
+2023-09-22 17:05:25,818 - Model - INFO - Train accuracy is: 0.84819
+2023-09-22 17:05:25,818 - Model - INFO - Train loss: 1.14559
+2023-09-22 17:05:25,818 - Model - INFO - lr: 0.000006
+2023-09-22 17:08:02,850 - Model - INFO - eval mIoU of Airplane       0.318326
+2023-09-22 17:08:02,850 - Model - INFO - eval mIoU of Bag            0.447981
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Cap            0.363747
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Car            0.242188
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Chair          0.605762
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Earphone       0.462430
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Guitar         0.654923
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Knife          0.247797
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Lamp           0.583949
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Laptop         0.674543
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Motorbike      0.168585
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Mug            0.486887
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Pistol         0.559693
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Rocket         0.227498
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Skateboard     0.437222
+2023-09-22 17:08:02,851 - Model - INFO - eval mIoU of Table          0.575539
+2023-09-22 17:08:02,851 - Model - INFO - Epoch 6 test Accuracy: 0.743255  Class avg mIOU: 0.441067   Inctance avg mIOU: 0.519498
+2023-09-22 17:08:02,851 - Model - INFO - Best accuracy is: 0.85080
+2023-09-22 17:08:02,851 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 17:08:02,851 - Model - INFO - Best inctance avg mIOU is: 0.66768
+2023-09-22 17:08:02,851 - Model - INFO - Epoch 7 (7/300):
+2023-09-22 17:24:10,026 - Model - INFO - Train accuracy is: 0.63923
+2023-09-22 17:24:10,026 - Model - INFO - Train loss: nan
+2023-09-22 17:24:10,026 - Model - INFO - lr: 0.000007
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Airplane       0.224382
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Bag            0.052490
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Cap            0.363348
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Car            0.020858
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Chair          0.295683
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Earphone       0.350598
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Guitar         0.031226
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Knife          0.248129
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Lamp           0.255012
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Laptop         0.270323
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Motorbike      0.066942
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Mug            0.026611
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Pistol         0.236502
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Rocket         0.226671
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Skateboard     0.147130
+2023-09-22 17:26:47,117 - Model - INFO - eval mIoU of Table          0.457802
+2023-09-22 17:26:47,117 - Model - INFO - Epoch 7 test Accuracy: 0.420143  Class avg mIOU: 0.204607   Inctance avg mIOU: 0.288144
+2023-09-22 17:26:47,117 - Model - INFO - Best accuracy is: 0.85080
+2023-09-22 17:26:47,117 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 17:26:47,117 - Model - INFO - Best inctance avg mIOU is: 0.66768
+2023-09-22 17:26:47,117 - Model - INFO - Epoch 8 (8/300):
+2023-09-22 17:42:57,679 - Model - INFO - Train accuracy is: 0.07562
+2023-09-22 17:42:57,679 - Model - INFO - Train loss: nan
+2023-09-22 17:42:57,679 - Model - INFO - lr: 0.000009
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Airplane       0.224327
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Bag            0.052019
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Cap            0.365922
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Car            0.020862
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Chair          0.295706
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Earphone       0.373640
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Guitar         0.030660
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Knife          0.249103
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Lamp           0.255005
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Laptop         0.271361
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Motorbike      0.066730
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Mug            0.025962
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Pistol         0.236332
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Rocket         0.225830
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Skateboard     0.148170
+2023-09-22 17:45:36,450 - Model - INFO - eval mIoU of Table          0.456727
+2023-09-22 17:45:36,450 - Model - INFO - Epoch 8 test Accuracy: 0.420229  Class avg mIOU: 0.206147   Inctance avg mIOU: 0.287963
+2023-09-22 17:45:36,450 - Model - INFO - Best accuracy is: 0.85080
+2023-09-22 17:45:36,450 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 17:45:36,450 - Model - INFO - Best inctance avg mIOU is: 0.66768
+2023-09-22 17:45:36,450 - Model - INFO - Epoch 9 (9/300):
+2023-09-22 18:01:47,807 - Model - INFO - Train accuracy is: 0.07562
+2023-09-22 18:01:47,807 - Model - INFO - Train loss: nan
+2023-09-22 18:01:47,807 - Model - INFO - lr: 0.000010
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Airplane       0.224576
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Bag            0.051287
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Cap            0.367831
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Car            0.020786
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Chair          0.295736
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Earphone       0.349981
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Guitar         0.031256
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Knife          0.249023
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Lamp           0.256811
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Laptop         0.271511
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Motorbike      0.066880
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Mug            0.026624
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Pistol         0.236750
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Rocket         0.226508
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Skateboard     0.148511
+2023-09-22 18:04:26,125 - Model - INFO - eval mIoU of Table          0.458212
+2023-09-22 18:04:26,125 - Model - INFO - Epoch 9 test Accuracy: 0.420491  Class avg mIOU: 0.205143   Inctance avg mIOU: 0.288562
+2023-09-22 18:04:26,125 - Model - INFO - Best accuracy is: 0.85080
+2023-09-22 18:04:26,125 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 18:04:26,125 - Model - INFO - Best inctance avg mIOU is: 0.66768
+2023-09-22 18:04:26,125 - Model - INFO - Epoch 10 (10/300):
+2023-09-22 18:20:35,868 - Model - INFO - Train accuracy is: 0.07562
+2023-09-22 18:20:35,868 - Model - INFO - Train loss: nan
+2023-09-22 18:20:35,868 - Model - INFO - lr: 0.000011
+2023-09-22 18:23:13,942 - Model - INFO - eval mIoU of Airplane       0.224501
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Bag            0.052856
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Cap            0.365057
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Car            0.020862
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Chair          0.295727
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Earphone       0.350888
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Guitar         0.030926
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Knife          0.248306
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Lamp           0.254925
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Laptop         0.271458
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Motorbike      0.066671
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Mug            0.026804
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Pistol         0.236683
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Rocket         0.228543
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Skateboard     0.147036
+2023-09-22 18:23:13,943 - Model - INFO - eval mIoU of Table          0.457372
+2023-09-22 18:23:13,943 - Model - INFO - Epoch 10 test Accuracy: 0.420228  Class avg mIOU: 0.204914   Inctance avg mIOU: 0.288071
+2023-09-22 18:23:13,943 - Model - INFO - Best accuracy is: 0.85080
+2023-09-22 18:23:13,943 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 18:23:13,943 - Model - INFO - Best inctance avg mIOU is: 0.66768
+2023-09-22 18:23:13,943 - Model - INFO - Epoch 11 (11/300):
+2023-09-22 18:39:26,806 - Model - INFO - Train accuracy is: 0.07557
+2023-09-22 18:39:26,806 - Model - INFO - Train loss: nan
+2023-09-22 18:39:26,806 - Model - INFO - lr: 0.000012
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Airplane       0.225684
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Bag            0.052264
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Cap            0.365479
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Car            0.020793
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Chair          0.295901
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Earphone       0.375337
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Guitar         0.030933
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Knife          0.247803
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Lamp           0.254923
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Laptop         0.270990
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Motorbike      0.066518
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Mug            0.026245
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Pistol         0.236543
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Rocket         0.227132
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Skateboard     0.147639
+2023-09-22 18:42:04,662 - Model - INFO - eval mIoU of Table          0.459629
+2023-09-22 18:42:04,662 - Model - INFO - Epoch 11 test Accuracy: 0.420423  Class avg mIOU: 0.206488   Inctance avg mIOU: 0.288995
+2023-09-22 18:42:04,662 - Model - INFO - Best accuracy is: 0.85080
+2023-09-22 18:42:04,662 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 18:42:04,662 - Model - INFO - Best inctance avg mIOU is: 0.66768
+2023-09-22 18:42:04,662 - Model - INFO - Epoch 12 (12/300):
+2023-09-22 18:58:15,021 - Model - INFO - Train accuracy is: 0.07559
+2023-09-22 18:58:15,021 - Model - INFO - Train loss: nan
+2023-09-22 18:58:15,021 - Model - INFO - lr: 0.000012
+2023-09-22 19:00:53,392 - Model - INFO - eval mIoU of Airplane       0.224498
+2023-09-22 19:00:53,392 - Model - INFO - eval mIoU of Bag            0.051880
+2023-09-22 19:00:53,392 - Model - INFO - eval mIoU of Cap            0.365900
+2023-09-22 19:00:53,392 - Model - INFO - eval mIoU of Car            0.020835
+2023-09-22 19:00:53,392 - Model - INFO - eval mIoU of Chair          0.295737
+2023-09-22 19:00:53,393 - Model - INFO - eval mIoU of Earphone       0.351469
+2023-09-22 19:00:53,393 - Model - INFO - eval mIoU of Guitar         0.031143
+2023-09-22 19:00:53,393 - Model - INFO - eval mIoU of Knife          0.247620
+2023-09-22 19:00:53,393 - Model - INFO - eval mIoU of Lamp           0.254981
+2023-09-22 19:00:53,393 - Model - INFO - eval mIoU of Laptop         0.271961
+2023-09-22 19:00:53,393 - Model - INFO - eval mIoU of Motorbike      0.066642
+2023-09-22 19:00:53,393 - Model - INFO - eval mIoU of Mug            0.026470
+2023-09-22 19:00:53,393 - Model - INFO - eval mIoU of Pistol         0.237700
+2023-09-22 19:00:53,393 - Model - INFO - eval mIoU of Rocket         0.225694
+2023-09-22 19:00:53,393 - Model - INFO - eval mIoU of Skateboard     0.147513
+2023-09-22 19:00:53,393 - Model - INFO - eval mIoU of Table          0.457147
+2023-09-22 19:00:53,393 - Model - INFO - Epoch 12 test Accuracy: 0.420447  Class avg mIOU: 0.204824   Inctance avg mIOU: 0.288024
+2023-09-22 19:00:53,393 - Model - INFO - Best accuracy is: 0.85080
+2023-09-22 19:00:53,393 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 19:00:53,393 - Model - INFO - Best inctance avg mIOU is: 0.66768
+2023-09-22 19:00:53,393 - Model - INFO - Epoch 13 (13/300):
+2023-09-22 19:17:01,176 - Model - INFO - Train accuracy is: 0.07564
+2023-09-22 19:17:01,176 - Model - INFO - Train loss: nan
+2023-09-22 19:17:01,176 - Model - INFO - lr: 0.000012
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Airplane       0.224479
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Bag            0.051828
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Cap            0.364347
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Car            0.020766
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Chair          0.295762
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Earphone       0.349888
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Guitar         0.031411
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Knife          0.248569
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Lamp           0.254834
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Laptop         0.271043
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Motorbike      0.066679
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Mug            0.026020
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Pistol         0.235747
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Rocket         0.226780
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Skateboard     0.147519
+2023-09-22 19:19:38,500 - Model - INFO - eval mIoU of Table          0.457523
+2023-09-22 19:19:38,500 - Model - INFO - Epoch 13 test Accuracy: 0.420300  Class avg mIOU: 0.204575   Inctance avg mIOU: 0.288091
+2023-09-22 19:19:38,500 - Model - INFO - Best accuracy is: 0.85080
+2023-09-22 19:19:38,500 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 19:19:38,500 - Model - INFO - Best inctance avg mIOU is: 0.66768
+2023-09-22 19:19:38,500 - Model - INFO - Epoch 14 (14/300):
+2023-09-22 19:35:50,653 - Model - INFO - Train accuracy is: 0.07562
+2023-09-22 19:35:50,653 - Model - INFO - Train loss: nan
+2023-09-22 19:35:50,653 - Model - INFO - lr: 0.000012
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Airplane       0.224371
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Bag            0.052054
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Cap            0.366255
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Car            0.021104
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Chair          0.295745
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Earphone       0.349819
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Guitar         0.031169
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Knife          0.249026
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Lamp           0.254874
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Laptop         0.270931
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Motorbike      0.066721
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Mug            0.026663
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Pistol         0.236650
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Rocket         0.227878
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Skateboard     0.147151
+2023-09-22 19:38:27,717 - Model - INFO - eval mIoU of Table          0.458141
+2023-09-22 19:38:27,717 - Model - INFO - Epoch 14 test Accuracy: 0.420233  Class avg mIOU: 0.204910   Inctance avg mIOU: 0.288306
+2023-09-22 19:38:27,717 - Model - INFO - Best accuracy is: 0.85080
+2023-09-22 19:38:27,717 - Model - INFO - Best class avg mIOU is: 0.52803
+2023-09-22 19:38:27,717 - Model - INFO - Best inctance avg mIOU is: 0.66768
+2023-09-22 19:38:27,717 - Model - INFO - Epoch 15 (15/300):
+2023-09-28 09:07:11,100 - Model - INFO - PARAMETER ...
+2023-09-28 09:07:11,101 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-300.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-28 09:07:11,171 - Model - INFO - The number of training data is: 13998
+2023-09-28 09:07:11,172 - Model - INFO - The number of test data is: 2874
+2023-09-28 09:07:46,174 - Model - INFO - PARAMETER ...
+2023-09-28 09:07:46,174 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-30.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-28 09:07:46,224 - Model - INFO - The number of training data is: 13998
+2023-09-28 09:07:46,225 - Model - INFO - The number of test data is: 2874
+2023-09-28 16:31:49,230 - Model - INFO - PARAMETER ...
+2023-09-28 16:31:49,231 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-30.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-28 16:31:49,338 - Model - INFO - The number of training data is: 13998
+2023-09-28 16:31:49,339 - Model - INFO - The number of test data is: 2874
+2023-09-28 16:32:03,602 - Model - INFO - PARAMETER ...
+2023-09-28 16:32:03,602 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-30.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-28 16:32:03,712 - Model - INFO - The number of training data is: 13998
+2023-09-28 16:32:03,712 - Model - INFO - The number of test data is: 2874
+2023-09-28 16:32:04,871 - Model - INFO - Epoch 1 (1/300):
+2023-09-28 16:33:11,989 - Model - INFO - PARAMETER ...
+2023-09-28 16:33:11,989 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-30.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-28 16:33:12,040 - Model - INFO - The number of training data is: 13998
+2023-09-28 16:33:12,040 - Model - INFO - The number of test data is: 2874
+2023-09-28 16:33:13,246 - Model - INFO - Epoch 1 (1/300):
+2023-09-28 16:36:56,031 - Model - INFO - PARAMETER ...
+2023-09-28 16:36:56,031 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-30.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-28 16:36:56,083 - Model - INFO - The number of training data is: 13998
+2023-09-28 16:36:56,083 - Model - INFO - The number of test data is: 2874
+2023-09-28 16:36:57,223 - Model - INFO - Epoch 1 (1/300):
+2023-09-28 16:37:33,895 - Model - INFO - PARAMETER ...
+2023-09-28 16:37:33,895 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-30.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-28 16:37:33,946 - Model - INFO - The number of training data is: 13998
+2023-09-28 16:37:33,947 - Model - INFO - The number of test data is: 2874
+2023-09-28 16:37:35,190 - Model - INFO - Epoch 1 (1/300):
+2023-09-28 16:39:12,344 - Model - INFO - PARAMETER ...
+2023-09-28 16:39:12,344 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-30.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-28 16:39:12,397 - Model - INFO - The number of training data is: 13998
+2023-09-28 16:39:12,397 - Model - INFO - The number of test data is: 2874
+2023-09-28 16:39:13,535 - Model - INFO - Epoch 1 (1/300):
+2023-09-28 16:40:13,565 - Model - INFO - PARAMETER ...
+2023-09-28 16:40:13,565 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-30.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-28 16:40:13,620 - Model - INFO - The number of training data is: 13998
+2023-09-28 16:40:13,620 - Model - INFO - The number of test data is: 2874
+2023-09-28 16:40:14,795 - Model - INFO - Epoch 1 (1/300):
+2023-09-28 16:40:47,459 - Model - INFO - PARAMETER ...
+2023-09-28 16:40:47,459 - Model - INFO - Namespace(batch_size=12, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-30.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-28 16:40:47,509 - Model - INFO - The number of training data is: 13998
+2023-09-28 16:40:47,509 - Model - INFO - The number of test data is: 2874
+2023-09-28 16:40:48,643 - Model - INFO - Epoch 1 (1/300):
+2023-09-28 16:41:52,535 - Model - INFO - PARAMETER ...
+2023-09-28 16:41:52,535 - Model - INFO - Namespace(batch_size=3, ckpts='/home/remote/模型/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-30.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-28 16:41:52,588 - Model - INFO - The number of training data is: 13998
+2023-09-28 16:41:52,589 - Model - INFO - The number of test data is: 2874
+2023-09-28 16:41:53,734 - Model - INFO - Epoch 1 (1/300):
+2023-09-28 16:53:12,556 - Model - INFO - Train accuracy is: 0.57869
+2023-09-28 16:53:12,556 - Model - INFO - Train loss: 2.68348
+2023-09-28 16:53:12,556 - Model - INFO - lr: 0.000001
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Airplane       0.582196
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Bag            0.446184
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Cap            0.598559
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Car            0.242379
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Chair          0.777777
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Earphone       0.438214
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Guitar         0.365767
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Knife          0.759787
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Lamp           0.606234
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Laptop         0.880947
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Motorbike      0.168890
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Mug            0.486823
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Pistol         0.533813
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Rocket         0.228475
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Skateboard     0.436561
+2023-09-28 16:54:35,500 - Model - INFO - eval mIoU of Table          0.731263
+2023-09-28 16:54:35,500 - Model - INFO - Epoch 1 test Accuracy: 0.832810  Class avg mIOU: 0.517742   Inctance avg mIOU: 0.645711
+2023-09-28 16:54:35,500 - Model - INFO - Save model...
+2023-09-28 16:54:35,500 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-28 16:54:36,389 - Model - INFO - Saving model....
+2023-09-28 16:54:36,389 - Model - INFO - Best accuracy is: 0.83281
+2023-09-28 16:54:36,389 - Model - INFO - Best class avg mIOU is: 0.51774
+2023-09-28 16:54:36,389 - Model - INFO - Best inctance avg mIOU is: 0.64571
+2023-09-28 16:54:36,389 - Model - INFO - Epoch 2 (2/300):
+2023-09-28 17:05:47,215 - Model - INFO - Train accuracy is: 0.76563
+2023-09-28 17:05:47,215 - Model - INFO - Train loss: 1.68034
+2023-09-28 17:05:47,215 - Model - INFO - lr: 0.000002
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Airplane       0.578964
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Bag            0.449132
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Cap            0.383098
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Car            0.242300
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Chair          0.799310
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Earphone       0.467488
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Guitar         0.378767
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Knife          0.770907
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Lamp           0.655307
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Laptop         0.889986
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Motorbike      0.168947
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Mug            0.486193
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Pistol         0.450407
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Rocket         0.226657
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Skateboard     0.437174
+2023-09-28 17:07:07,207 - Model - INFO - eval mIoU of Table          0.738000
+2023-09-28 17:07:07,208 - Model - INFO - Epoch 2 test Accuracy: 0.840562  Class avg mIOU: 0.507665   Inctance avg mIOU: 0.656806
+2023-09-28 17:07:07,208 - Model - INFO - Save model...
+2023-09-28 17:07:07,208 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-28 17:07:08,119 - Model - INFO - Saving model....
+2023-09-28 17:07:08,120 - Model - INFO - Best accuracy is: 0.84056
+2023-09-28 17:07:08,120 - Model - INFO - Best class avg mIOU is: 0.51774
+2023-09-28 17:07:08,120 - Model - INFO - Best inctance avg mIOU is: 0.65681
+2023-09-28 17:07:08,120 - Model - INFO - Epoch 3 (3/300):
+2023-09-28 17:18:06,789 - Model - INFO - Train accuracy is: 0.82709
+2023-09-28 17:18:06,789 - Model - INFO - Train loss: 1.33159
+2023-09-28 17:18:06,789 - Model - INFO - lr: 0.000003
+2023-09-28 17:19:32,871 - Model - INFO - eval mIoU of Airplane       0.658314
+2023-09-28 17:19:32,871 - Model - INFO - eval mIoU of Bag            0.447859
+2023-09-28 17:19:32,871 - Model - INFO - eval mIoU of Cap            0.428809
+2023-09-28 17:19:32,871 - Model - INFO - eval mIoU of Car            0.242255
+2023-09-28 17:19:32,871 - Model - INFO - eval mIoU of Chair          0.788257
+2023-09-28 17:19:32,871 - Model - INFO - eval mIoU of Earphone       0.361624
+2023-09-28 17:19:32,871 - Model - INFO - eval mIoU of Guitar         0.396849
+2023-09-28 17:19:32,871 - Model - INFO - eval mIoU of Knife          0.755855
+2023-09-28 17:19:32,871 - Model - INFO - eval mIoU of Lamp           0.620575
+2023-09-28 17:19:32,871 - Model - INFO - eval mIoU of Laptop         0.914296
+2023-09-28 17:19:32,871 - Model - INFO - eval mIoU of Motorbike      0.169255
+2023-09-28 17:19:32,871 - Model - INFO - eval mIoU of Mug            0.486174
+2023-09-28 17:19:32,872 - Model - INFO - eval mIoU of Pistol         0.504471
+2023-09-28 17:19:32,872 - Model - INFO - eval mIoU of Rocket         0.228140
+2023-09-28 17:19:32,872 - Model - INFO - eval mIoU of Skateboard     0.436712
+2023-09-28 17:19:32,872 - Model - INFO - eval mIoU of Table          0.750554
+2023-09-28 17:19:32,872 - Model - INFO - Epoch 3 test Accuracy: 0.839870  Class avg mIOU: 0.511875   Inctance avg mIOU: 0.665529
+2023-09-28 17:19:32,872 - Model - INFO - Save model...
+2023-09-28 17:19:32,872 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-28 17:19:33,791 - Model - INFO - Saving model....
+2023-09-28 17:19:33,792 - Model - INFO - Best accuracy is: 0.84056
+2023-09-28 17:19:33,792 - Model - INFO - Best class avg mIOU is: 0.51774
+2023-09-28 17:19:33,792 - Model - INFO - Best inctance avg mIOU is: 0.66553
+2023-09-28 17:19:33,792 - Model - INFO - Epoch 4 (4/300):
+2023-09-28 17:30:52,538 - Model - INFO - Train accuracy is: 0.86151
+2023-09-28 17:30:52,538 - Model - INFO - Train loss: 1.16061
+2023-09-28 17:30:52,538 - Model - INFO - lr: 0.000004
+2023-09-28 17:32:15,527 - Model - INFO - eval mIoU of Airplane       0.665528
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Bag            0.449934
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Cap            0.425992
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Car            0.250662
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Chair          0.808825
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Earphone       0.436086
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Guitar         0.707460
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Knife          0.717382
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Lamp           0.640769
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Laptop         0.924732
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Motorbike      0.168690
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Mug            0.486752
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Pistol         0.497751
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Rocket         0.228475
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Skateboard     0.437222
+2023-09-28 17:32:15,528 - Model - INFO - eval mIoU of Table          0.758762
+2023-09-28 17:32:15,528 - Model - INFO - Epoch 4 test Accuracy: 0.863226  Class avg mIOU: 0.537814   Inctance avg mIOU: 0.692995
+2023-09-28 17:32:15,528 - Model - INFO - Save model...
+2023-09-28 17:32:15,528 - Model - INFO - Saving at log/part_seg/exp/checkpoints/best_model.pth
+2023-09-28 17:32:16,472 - Model - INFO - Saving model....
+2023-09-28 17:32:16,472 - Model - INFO - Best accuracy is: 0.86323
+2023-09-28 17:32:16,472 - Model - INFO - Best class avg mIOU is: 0.53781
+2023-09-28 17:32:16,472 - Model - INFO - Best inctance avg mIOU is: 0.69300
+2023-09-28 17:32:16,472 - Model - INFO - Epoch 5 (5/300):
+2023-09-28 17:43:35,028 - Model - INFO - Train accuracy is: 0.87959
+2023-09-28 17:43:35,028 - Model - INFO - Train loss: 1.07819
+2023-09-28 17:43:35,028 - Model - INFO - lr: 0.000005
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Airplane       0.611071
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Bag            0.448696
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Cap            0.395133
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Car            0.365797
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Chair          0.821035
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Earphone       0.516638
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Guitar         0.407722
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Knife          0.798000
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Lamp           0.693360
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Laptop         0.894038
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Motorbike      0.175783
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Mug            0.486270
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Pistol         0.535406
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Rocket         0.226698
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Skateboard     0.437526
+2023-09-28 17:44:57,819 - Model - INFO - eval mIoU of Table          0.758526
+2023-09-28 17:44:57,820 - Model - INFO - Epoch 5 test Accuracy: 0.865229  Class avg mIOU: 0.535731   Inctance avg mIOU: 0.686754
+2023-09-28 17:44:57,820 - Model - INFO - Best accuracy is: 0.86523
+2023-09-28 17:44:57,820 - Model - INFO - Best class avg mIOU is: 0.53781
+2023-09-28 17:44:57,820 - Model - INFO - Best inctance avg mIOU is: 0.69300
+2023-09-28 17:44:57,820 - Model - INFO - Epoch 6 (6/300):
+2023-09-28 17:56:14,728 - Model - INFO - Train accuracy is: 0.85196
+2023-09-28 17:56:14,728 - Model - INFO - Train loss: 1.14216
+2023-09-28 17:56:14,728 - Model - INFO - lr: 0.000006
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Airplane       0.244749
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Bag            0.447614
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Cap            0.367143
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Car            0.242349
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Chair          0.319880
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Earphone       0.431646
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Guitar         0.227996
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Knife          0.332876
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Lamp           0.505565
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Laptop         0.271431
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Motorbike      0.245013
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Mug            0.486457
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Pistol         0.532231
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Rocket         0.225586
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Skateboard     0.436949
+2023-09-28 17:57:36,619 - Model - INFO - eval mIoU of Table          0.391082
+2023-09-28 17:57:36,619 - Model - INFO - Epoch 6 test Accuracy: 0.459862  Class avg mIOU: 0.356785   Inctance avg mIOU: 0.346411
+2023-09-28 17:57:36,619 - Model - INFO - Best accuracy is: 0.86523
+2023-09-28 17:57:36,619 - Model - INFO - Best class avg mIOU is: 0.53781
+2023-09-28 17:57:36,619 - Model - INFO - Best inctance avg mIOU is: 0.69300
+2023-09-28 17:57:36,619 - Model - INFO - Epoch 7 (7/300):
+2023-09-28 18:08:55,388 - Model - INFO - Train accuracy is: 0.48164
+2023-09-28 18:08:55,388 - Model - INFO - Train loss: nan
+2023-09-28 18:08:55,388 - Model - INFO - lr: 0.000007
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Airplane       0.224358
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Bag            0.051828
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Cap            0.363015
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Car            0.020954
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Chair          0.295751
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Earphone       0.351109
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Guitar         0.030937
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Knife          0.248553
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Lamp           0.255718
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Laptop         0.271955
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Motorbike      0.066813
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Mug            0.026817
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Pistol         0.236417
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Rocket         0.225871
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Skateboard     0.146605
+2023-09-28 18:10:17,391 - Model - INFO - eval mIoU of Table          0.458405
+2023-09-28 18:10:17,391 - Model - INFO - Epoch 7 test Accuracy: 0.420366  Class avg mIOU: 0.204694   Inctance avg mIOU: 0.288442
+2023-09-28 18:10:17,391 - Model - INFO - Best accuracy is: 0.86523
+2023-09-28 18:10:17,391 - Model - INFO - Best class avg mIOU is: 0.53781
+2023-09-28 18:10:17,391 - Model - INFO - Best inctance avg mIOU is: 0.69300
+2023-09-28 18:10:17,391 - Model - INFO - Epoch 8 (8/300):
+2023-09-28 18:21:35,251 - Model - INFO - Train accuracy is: 0.07567
+2023-09-28 18:21:35,251 - Model - INFO - Train loss: nan
+2023-09-28 18:21:35,251 - Model - INFO - lr: 0.000009
+2023-09-28 18:22:57,871 - Model - INFO - eval mIoU of Airplane       0.224591
+2023-09-28 18:22:57,871 - Model - INFO - eval mIoU of Bag            0.052891
+2023-09-28 18:22:57,871 - Model - INFO - eval mIoU of Cap            0.367742
+2023-09-28 18:22:57,871 - Model - INFO - eval mIoU of Car            0.020782
+2023-09-28 18:22:57,871 - Model - INFO - eval mIoU of Chair          0.295570
+2023-09-28 18:22:57,871 - Model - INFO - eval mIoU of Earphone       0.350423
+2023-09-28 18:22:57,871 - Model - INFO - eval mIoU of Guitar         0.030907
+2023-09-28 18:22:57,871 - Model - INFO - eval mIoU of Knife          0.249084
+2023-09-28 18:22:57,872 - Model - INFO - eval mIoU of Lamp           0.254879
+2023-09-28 18:22:57,872 - Model - INFO - eval mIoU of Laptop         0.272184
+2023-09-28 18:22:57,872 - Model - INFO - eval mIoU of Motorbike      0.066725
+2023-09-28 18:22:57,872 - Model - INFO - eval mIoU of Mug            0.026714
+2023-09-28 18:22:57,872 - Model - INFO - eval mIoU of Pistol         0.236550
+2023-09-28 18:22:57,872 - Model - INFO - eval mIoU of Rocket         0.227159
+2023-09-28 18:22:57,872 - Model - INFO - eval mIoU of Skateboard     0.147508
+2023-09-28 18:22:57,872 - Model - INFO - eval mIoU of Table          0.457144
+2023-09-28 18:22:57,872 - Model - INFO - Epoch 8 test Accuracy: 0.420318  Class avg mIOU: 0.205053   Inctance avg mIOU: 0.288014
+2023-09-28 18:22:57,872 - Model - INFO - Best accuracy is: 0.86523
+2023-09-28 18:22:57,872 - Model - INFO - Best class avg mIOU is: 0.53781
+2023-09-28 18:22:57,872 - Model - INFO - Best inctance avg mIOU is: 0.69300
+2023-09-28 18:22:57,872 - Model - INFO - Epoch 9 (9/300):
+2023-09-28 18:34:15,055 - Model - INFO - Train accuracy is: 0.07564
+2023-09-28 18:34:15,055 - Model - INFO - Train loss: nan
+2023-09-28 18:34:15,055 - Model - INFO - lr: 0.000010
+2023-09-28 18:35:36,924 - Model - INFO - eval mIoU of Airplane       0.224598
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Bag            0.051636
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Cap            0.366300
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Car            0.020752
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Chair          0.295795
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Earphone       0.349574
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Guitar         0.031113
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Knife          0.247723
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Lamp           0.255890
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Laptop         0.273482
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Motorbike      0.066709
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Mug            0.027183
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Pistol         0.236139
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Rocket         0.227119
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Skateboard     0.147246
+2023-09-28 18:35:36,925 - Model - INFO - eval mIoU of Table          0.456770
+2023-09-28 18:35:36,925 - Model - INFO - Epoch 9 test Accuracy: 0.420587  Class avg mIOU: 0.204877   Inctance avg mIOU: 0.288050
+2023-09-28 18:35:36,925 - Model - INFO - Best accuracy is: 0.86523
+2023-09-28 18:35:36,925 - Model - INFO - Best class avg mIOU is: 0.53781
+2023-09-28 18:35:36,925 - Model - INFO - Best inctance avg mIOU is: 0.69300
+2023-09-28 18:35:36,925 - Model - INFO - Epoch 10 (10/300):
+2023-09-28 18:46:52,975 - Model - INFO - Train accuracy is: 0.07565
+2023-09-28 18:46:52,975 - Model - INFO - Train loss: nan
+2023-09-28 18:46:52,975 - Model - INFO - lr: 0.000011
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Airplane       0.224425
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Bag            0.051113
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Cap            0.363681
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Car            0.021021
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Chair          0.295734
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Earphone       0.348784
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Guitar         0.030865
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Knife          0.247842
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Lamp           0.255068
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Laptop         0.271540
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Motorbike      0.066583
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Mug            0.026727
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Pistol         0.236850
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Rocket         0.226956
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Skateboard     0.147729
+2023-09-28 18:48:15,426 - Model - INFO - eval mIoU of Table          0.459480
+2023-09-28 18:48:15,426 - Model - INFO - Epoch 10 test Accuracy: 0.420326  Class avg mIOU: 0.204650   Inctance avg mIOU: 0.288672
+2023-09-28 18:48:15,426 - Model - INFO - Best accuracy is: 0.86523
+2023-09-28 18:48:15,426 - Model - INFO - Best class avg mIOU is: 0.53781
+2023-09-28 18:48:15,426 - Model - INFO - Best inctance avg mIOU is: 0.69300
+2023-09-28 18:48:15,426 - Model - INFO - Epoch 11 (11/300):
+2024-06-17 10:00:02,811 - Model - INFO - PARAMETER ...
+2024-06-17 10:00:02,812 - Model - INFO - Namespace(batch_size=3, ckpts='/home/liu/model/MV-Point-MAE/experiments/pretrain/cfgs/txt/checkpoint-30.pth', epoch=300, epochs=300, gpu='0', learning_rate=0.0002, log_dir='./exp', lr=None, model='pt', normal=False, npoint=2048, root='/home/liu/dataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)

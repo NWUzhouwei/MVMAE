@@ -1,0 +1,28 @@
+2023-09-07 20:44:53,723 - Model - INFO - PARAMETER ...
+2023-09-07 20:44:53,723 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/experiments/t/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='Point_MAE.PointTransformer', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 20:44:53,833 - Model - INFO - The number of training data is: 13998
+2023-09-07 20:44:53,833 - Model - INFO - The number of test data is: 2874
+2023-09-07 21:19:32,309 - Model - INFO - PARAMETER ...
+2023-09-07 21:19:32,309 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/experiments/t/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='Point_MAE.PointTransformer', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 21:19:32,428 - Model - INFO - The number of training data is: 13998
+2023-09-07 21:19:32,428 - Model - INFO - The number of test data is: 2874
+2023-09-07 21:20:04,707 - Model - INFO - PARAMETER ...
+2023-09-07 21:20:04,707 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/experiments/t/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='Point_MAE.PointTransformer', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 21:20:04,814 - Model - INFO - The number of training data is: 13998
+2023-09-07 21:20:04,814 - Model - INFO - The number of test data is: 2874
+2023-09-07 21:20:20,853 - Model - INFO - PARAMETER ...
+2023-09-07 21:20:20,853 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/experiments/t/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='Point_MAE.PointTransformer', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 21:20:20,971 - Model - INFO - The number of training data is: 13998
+2023-09-07 21:20:20,971 - Model - INFO - The number of test data is: 2874
+2023-09-07 21:20:21,555 - Model - INFO - PARAMETER ...
+2023-09-07 21:20:21,555 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/experiments/t/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='Point_MAE.PointTransformer', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 21:20:21,683 - Model - INFO - The number of training data is: 13998
+2023-09-07 21:20:21,683 - Model - INFO - The number of test data is: 2874
+2023-09-07 21:20:24,036 - Model - INFO - PARAMETER ...
+2023-09-07 21:20:24,037 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/experiments/t/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='Point_MAE.PointTransformer', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 21:20:24,164 - Model - INFO - The number of training data is: 13998
+2023-09-07 21:20:24,164 - Model - INFO - The number of test data is: 2874
+2023-09-07 21:20:24,974 - Model - INFO - PARAMETER ...
+2023-09-07 21:20:24,974 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/experiments/t/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='Point_MAE.PointTransformer', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 21:20:25,028 - Model - INFO - The number of training data is: 13998
+2023-09-07 21:20:25,028 - Model - INFO - The number of test data is: 2874

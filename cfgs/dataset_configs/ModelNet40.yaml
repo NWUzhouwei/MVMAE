@@ -1,0 +1,6 @@
+NAME: ModelNet
+DATA_PATH: /home/liu/Model/MV-Point-MAE/modelnet40_normal_resampled
+DATA_PATH_2: /home/liu/Model/MV-Point-MAE/modelnet40_normal_resampled
+N_POINTS: 8192
+NUM_CATEGORY: 40
+USE_NORMALS: True

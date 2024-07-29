@@ -1,0 +1,16 @@
+2023-09-07 19:53:01,681 - Model - INFO - PARAMETER ...
+2023-09-07 19:53:01,681 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='Point_MAE', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 19:53:01,792 - Model - INFO - The number of training data is: 13998
+2023-09-07 19:53:01,793 - Model - INFO - The number of test data is: 2874
+2023-09-07 20:05:07,990 - Model - INFO - PARAMETER ...
+2023-09-07 20:05:07,990 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='Point_MAE', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 20:05:08,101 - Model - INFO - The number of training data is: 13998
+2023-09-07 20:05:08,101 - Model - INFO - The number of test data is: 2874
+2023-09-07 20:44:09,378 - Model - INFO - PARAMETER ...
+2023-09-07 20:44:09,378 - Model - INFO - Namespace(batch_size=16, ckpts='/home/remote/模型/MV-Point-MAE/experiments/t/checkpoint-base140.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='Point_MAE', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal/', warmup_epoch=10)
+2023-09-07 20:44:09,493 - Model - INFO - The number of training data is: 13998
+2023-09-07 20:44:09,493 - Model - INFO - The number of test data is: 2874
+2023-09-08 20:40:53,555 - Model - INFO - PARAMETER ...
+2023-09-08 20:40:53,555 - Model - INFO - Namespace(batch_size=16, ckpts='../best/pretrain/m0.6R_1_pretrain300.pth', epoch=300, gpu='0', learning_rate=0.0002, log_dir='./exp', model='Point_MAE', normal=False, npoint=2048, root='/home/remote/DataSet/shapenetcore_partanno_segmentation_benchmark_v0_normal', warmup_epoch=10)
+2023-09-08 20:40:53,625 - Model - INFO - The number of training data is: 13998
+2023-09-08 20:40:53,625 - Model - INFO - The number of test data is: 2874

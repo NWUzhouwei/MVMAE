@@ -1,0 +1,8 @@
+NAME: ShapeNet
+DATA_PATH: /home/liu/dataSet/ShapeNet55_s_point_8_256
+N_POINTS: 8192
+PC_PATH: /home/liu/dataSet/ShapeNet55_s_point_8_256
+# NAME: ShapeNet
+# DATA_PATH: /home/liu/dataSet/ShapeNet55/shapenet_pc
+# N_POINTS: 8192
+# PC_PATH: /home/liu/dataSet/ShapeNet55/shapenet_pc
